@@ -6,6 +6,28 @@
 
 # 提前批
 
+## 九坤
+
+[招聘+实习 | 九坤AI类热门招聘：αi +1，未来可期 (qq.com)](https://mp.weixin.qq.com/s/miFiRKPv2DowQ6S-SGLV-Q)
+
+九坤投资于2012年4月成立，是一家以前沿科技持续驱动金融市场投资，致力于为投资者持续创造价值的**量化对冲基金公司**。目前资产管理规模超600亿元人民币，服务客户超过20000名，连续5年蝉联中国私募金牛奖，**综合实力位居行业第一梯队**。
+
+有开发岗和算法岗。
+
+![image-20220529192943500](https://cdn.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291929557.png)
+
+## 中国航天科工集团有限公司
+
+[航天三院2023届毕业生提前批招聘 (qq.com)](https://mp.weixin.qq.com/s/A59ETWdSPGbAJ75ZNtiPSw)
+
+[航天科工集团网申系统--校园招聘 (zhiye.com)](https://casic.zhiye.com/xzlist?k=&d=-1&c=&p=1^2,3^-1)
+
+**央企**，下属的多个子公司分布在全国各地，各个子公司的业务范围也不尽相同。航空航天、电子通信、计算机、材料、机械等相关的岗位均有招聘，甚至还有建筑、土木、医药等岗位，覆盖面非常广。每个岗位还贴心地附上了薪资，普遍不超过20w。计算机相关的岗位如下：
+
+![image-20220529185936089](https://fastly.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291859229.png)
+
+这里展示的是所有子公司的岗位表，长达20多页太多了，可以按照工作城市和心仪的子公司进行筛选。
+
 ## 华为
 
 [华为应届生_实习生_留学生_海外本地最新招聘信息-华为校园招聘 (huawei.com)](https://career.huawei.com/reccampportal/portal5/campus-recruitment.html#jobList)
@@ -16,7 +38,7 @@
 
 软开岗位会分好几个领域：
 
-![image-20220529143027951](https://cdn.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291430991.png)
+![image-20220529152735802](https://cdn.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291527852.png)
 
 ![image-20220529142959862](https://cdn.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291429924.png)
 
@@ -108,6 +130,30 @@ TP-LINK总部位于中国**深圳**，自1996年成立以来便深耕国内市�
 
 ![image-20220529133717194](https://cdn.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291337365.png)
 
+## 海尔卡奥斯
+
+[卡奥斯2023校园招聘科技类提前批启动 (qq.com)](https://mp.weixin.qq.com/s/lasMwN-tQk7zjtKb_eju9A)
+
+[海尔创吧-海尔官方招聘网站 (haier.net)](http://maker.haier.net/client/campus/khaoscustomizedjobs.html)
+
+卡奥斯COSMOPlat创建于2017年4月，是海尔集团基于三十多年的制造经验打造的国家级“跨行业跨领域”**工业互联网**平台，并连续4年位列双跨平台“国家队”榜首！平台定位为引入用户全流程参与体验的工业互联网平台，为全球不同行业和规模的企业提供面向场景的数字化转型解决方案，推动生产方式、商业模式、管理范式的变革，促进新模式、新业态的普及，构建“政、产、学、研、用、金”共创共享、高质量发展的工业新生态。
+
+在业务板块上，卡奥斯COSMOPlat覆盖工业互联网平台建设和运营、工业智能技术研究和应用、工业软件及工业APP开发、智能工厂建设及软硬件集成服务、采供销数字化资源配置等板块，面向家电家居、能源、医疗、服装、装备、电子、汽车等行业提供智能制造、数字化创新等服务，并为产业园区、区域政府提供数字化管理及综合服务平台建设、产业咨询规划等服务。
+
+![image-20220529191704650](https://cdn.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291917418.png)
+
+## 海尔其他生态
+
+[招聘 | 海尔生物医疗2023未来合伙人提前批正式启动 (qq.com)](https://mp.weixin.qq.com/s/ti3An1s0r1qn7ky-7NbTVg)
+
+[海尔创吧-海尔官方招聘网站 (haier.net)](http://maker.haier.net/client/campus/activityindex.html)
+
+可在左侧选择部门，有大量互联网相关的岗位。
+
+![image-20220529192506638](https://cdn.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291925770.png)
+
+![image-20220529192549107](https://cdn.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291925182.png)
+
 ## 最右
 
 [最右 - 校园招聘 (mokahr.com)](https://app.mokahr.com/campus_apply/xiaochuankeji/3518#/jobs?zhineng=&page=1)
@@ -153,10 +199,6 @@ TP-LINK总部位于中国**深圳**，自1996年成立以来便深耕国内市�
 **成立于2018年**，公司在4年内连续获得多家头部VC基金投资（今日资本、高格、五源、源码、创新工场等），目前**已完成B+轮融资**，融资额度及产品落地速度均领跑所处赛道。凭借全球领先的3D视觉、机器人运动规划和夹具设计等前沿技术，星猿哲科技为物流和制造业提供小件无序分拣、拆码垛、深筐上下料与装配等全套产品解决方案，目前已广泛应用于工业、物流、电商、汽车零部件、日化、医药、消费品等行业头部企业。
 
 ![image-20220529141118377](https://cdn.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291411424.png)
-
-
-
-
 
 
 
