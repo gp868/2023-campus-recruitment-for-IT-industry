@@ -6,6 +6,28 @@
 
 # 提前批
 
+## 华为
+
+[华为应届生_实习生_留学生_海外本地最新招聘信息-华为校园招聘 (huawei.com)](https://career.huawei.com/reccampportal/portal5/campus-recruitment.html#jobList)
+
+[一帖看懂华为23届提前批【持续更新5月28日】_招聘信息_牛客网 (nowcoder.com)](https://www.nowcoder.com/discuss/946966?order=0&pos=25&page=1)
+
+帖子写的很详细，很多部门已经开始了提前批的招聘。
+
+软开岗位会分好几个领域：
+
+![image-20220529143027951](https://cdn.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291430991.png)
+
+![image-20220529142959862](https://cdn.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291429924.png)
+
+## 百度（算法）
+
+看岗位表只有算法、智能驾驶、芯片相关的岗位，应该是神仙打架的。
+
+[百度校园招聘 (baidu.com)](https://talent.baidu.com/external/baidu/campus.html#/jobList/1)
+
+![image-20220529135150511](https://cdn.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291351546.png)
+
 ## 广联达
 
 [广联达科技股份有限公司 - 校招内推职位 (mokahr.com)](https://app.mokahr.com/recommendation-apply/glodon/1752#/?anchorName=default_joblist&sourceToken=)
@@ -77,6 +99,62 @@ TP-LINK总部位于中国**深圳**，自1996年成立以来便深耕国内市�
 ![image-20220529133341764](https://cdn.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291333818.png)
 
 ![image-20220529133403517](https://cdn.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291334575.png)
+
+## 海尔智家
+
+[海尔创吧-海尔官方招聘网站-提前批 (haier.net)](http://maker.haier.net/client/campus/customizedjobs.html)
+
+海尔总部位于**青岛**，在青岛本地是非常不错的就业单位。提前批中开发岗的话只有运维和测试，另外就是算法岗了。海尔的业务面也非常广，还有智能制造、营销、市场、人工智能等等岗位，怪不得是青岛的就业大户🎊。
+
+![image-20220529133717194](https://cdn.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291337365.png)
+
+## 最右
+
+[最右 - 校园招聘 (mokahr.com)](https://app.mokahr.com/campus_apply/xiaochuankeji/3518#/jobs?zhineng=&page=1)
+
+想到了那个生产搞笑小视频的最右app，公司成立不到十年，base北京海淀。
+
+最右成立于2014年，目前是一家D轮的创业型**准独角兽**互联网公司。 目前我们有超过2亿的注册用户，平均每两个95后就有一人使用过最右的产品。 最右的创始人们有十年以上的创业经验，在互联网行业有时间和经验的双重积累。
+
+![image-20220529134646989](https://cdn.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291346042.png)
+
+## 国家电网-南京自动化股份有限责任公司
+
+[国电南京自动化股份有限公司2023届校园招聘 (51job.com)](http://campus.51job.com/SAC/post.html)
+
+知道国家电网是国企，那下属的公司是国企吗？
+
+其中软件开发工程师偏java，通信类产品研发工程师偏C、C++，还要懂通信原理。
+
+![image-20220529135547953](https://cdn.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291355116.png)
+
+## 中国宝武
+
+[中国宝武2022全球校园招聘 (51job.com)](http://campus.51job.com/baowugroup/job.html)
+
+**央企**，计算机相关岗位主要由上海宝钢下属子公司**宝武碳业科技股份有限公司**招聘，base上海。宝钢有巨多子公司分布在全国各地：[中国宝武子公司介绍](http://campus.51job.com/baowugroup/about.html)，其他子公司会招制造、管理、化工、能源等几乎所有的行业。
+
+![image-20220529140242495](https://cdn.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291402545.png)
+
+本次招聘的有如下子公司：
+
+![image-20220529140900715](https://cdn.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291409779.png)
+
+## 星猿哲XYZ Robotics
+
+[星猿哲XYZ Robotics 2023届暑期实习&秋招提前批正式开启！ (qq.com)](https://mp.weixin.qq.com/s/_rsU2dG449xD1EiuRrtv-g)
+
+[XYZ Robotics - 校园招聘 (mokahr.com)](https://app.mokahr.com/campus_apply/xyzrobotics/26847#/)
+
+做机器人的创业公司，成立五年了。目测比较容易进，但是作为毕业的第一份工作的话，发展前景位置。
+
+星猿哲科技XYZ Robotics，由CMU 机器人学博士周佳骥、MITEECS博士俞冠廷和北大经济学硕士邢梁立博共同创立。创始团队曾连续三年斩获亚马逊机器人拣选挑战赛全球前三。公司致力赋予**机器人**全自主感知与操作的能力，变革生产方式，解放人类双手。
+
+**成立于2018年**，公司在4年内连续获得多家头部VC基金投资（今日资本、高格、五源、源码、创新工场等），目前**已完成B+轮融资**，融资额度及产品落地速度均领跑所处赛道。凭借全球领先的3D视觉、机器人运动规划和夹具设计等前沿技术，星猿哲科技为物流和制造业提供小件无序分拣、拆码垛、深筐上下料与装配等全套产品解决方案，目前已广泛应用于工业、物流、电商、汽车零部件、日化、医药、消费品等行业头部企业。
+
+![image-20220529141118377](https://cdn.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291411424.png)
+
+
 
 
 
