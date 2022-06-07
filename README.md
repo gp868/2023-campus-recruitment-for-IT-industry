@@ -1,10 +1,40 @@
-# 🔥2023届互联网校招信息⌈提前批⌋ ⌈秋招⌋ ⌈春招⌋ 5.29更新
+# 🔥2023届互联网校招信息⌈提前批⌋ ⌈秋招⌋ ⌈春招⌋ 6.7更新
 
 后序会在 ⌈**卡卡成长汇聚**⌋ 微信公众号更新更多2023届互联网校招信息⌈提前批⌋ ⌈秋招⌋ ⌈春招⌋ 信息，关注获取最新消息：
 
 ![卡卡成长汇聚宣传](https://cdn.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205282027513.gif)
 
 # 提前批
+
+### 航天二院
+
+[招聘 | 航天二院2022届毕业生校招补招 (qq.com)](https://mp.weixin.qq.com/s/cPgqPkJryXf3kxaiCEbeCg)
+
+针对2022届的春招补录：
+
+![image-20220607172844726](https://fastly.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206071728835.png)
+
+### 中泰证券
+
+[中泰证券2023届提前批暑期校园招聘启动 (qq.com)](https://mp.weixin.qq.com/s/9kIj1TKJnC6P1fELDu7dWg)
+
+山东省国企，金融大厂。
+
+中泰证券股份有限公司（原名齐鲁证券有限公司）成立于2001年5月，是全国大型综合类上市券商（股票代码：600918），在全国28个省市自治区设有45家分公司、284家证券营业部，员工9000多人，控股中泰期货、中泰资本、中泰金融国际、中泰资管、中泰创投、齐鲁股权交易中心，参股万家基金，形成了集证券、期货、基金等为一体的综合性证券控股集团。
+
+中泰证券主要经营证券经纪、承销与保荐、投资咨询、证券自营、财务顾问、融资融券、基金与金融产品代销、基金托管、期货介绍等业务。截至目前，公司服务客户750多万，管理客户资产过万亿元；累计为800多家企业提供股债融资服务，为企业融资近1.5万亿元。
+
+![image-20220607173645726](https://fastly.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206071736986.png)
+
+互联网的岗位主要有：
+
+![image-20220607173902611](https://fastly.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206071739668.png)
+
+![image-20220607173918794](https://fastly.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206071739856.png)
+
+![image-20220607173939142](https://fastly.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206071739210.png)
+
+![image-20220607173953394](https://fastly.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206071739461.png)
 
 ## 中国船舶集团第七一六研究所
 
@@ -71,16 +101,6 @@
 原来心无波澜地打开他们的招聘官网，这个宣传语属实让我虎躯一震，其真实性不得而知。不过我觉得家乡是湖南的同学可以考虑一下。
 
 ![image-20220603161043688](https://fastly.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206031610823.png)
-
-
-
-
-
-
-
-
-
-
 
 ## 九坤
 
