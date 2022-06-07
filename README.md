@@ -6,7 +6,7 @@
 
 # 提前批
 
-### 航天二院
+## 航天二院
 
 [招聘 | 航天二院2022届毕业生校招补招 (qq.com)](https://mp.weixin.qq.com/s/cPgqPkJryXf3kxaiCEbeCg)
 
@@ -14,7 +14,7 @@
 
 ![image-20220607172844726](https://fastly.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206071728835.png)
 
-### 中泰证券
+## 中泰证券
 
 [中泰证券2023届提前批暑期校园招聘启动 (qq.com)](https://mp.weixin.qq.com/s/9kIj1TKJnC6P1fELDu7dWg)
 
