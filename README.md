@@ -1,10 +1,118 @@
-# 🔥2023届互联网校招信息⌈提前批⌋ ⌈秋招⌋ ⌈春招⌋ 6.20更新
+# 🔥2023届互联网校招信息⌈提前批⌋ ⌈秋招⌋ ⌈春招⌋ 6.24更新
 
 后序会在 ⌈**卡卡成长汇聚**⌋ 微信公众号更新更多2023届互联网校招信息⌈提前批⌋ ⌈秋招⌋ ⌈春招⌋ 信息，关注获取最新消息：
 
 ![卡卡成长汇聚宣传](https://cdn.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205282027513.gif)
 
 # 提前批（最上方最新）
+
+## 华为云核心网
+
+[校招 | 华为云核心网23届顶尖校招 (qq.com)](https://mp.weixin.qq.com/s/hswx8VkqjUExb1QBtpiT7Q)
+
+
+
+
+
+## 高德红外
+
+[招聘信息 | 高德红外2023届校园招聘提前批正式启动 (qq.com)](https://mp.weixin.qq.com/s/K82qwtM-VlgP3O0tT2SRKw)
+
+
+
+
+
+
+
+## 电科莱斯
+
+[校招 | 电科莱斯2023届校招提前批 (qq.com)](https://mp.weixin.qq.com/s/8-SOdHunQFpGKP6ADteQxw)
+
+
+
+
+
+## 华为集团IT
+
+[校园招聘 | 华为集团IT2023届顶尖人才招聘 (qq.com)](https://mp.weixin.qq.com/s/hLam6_NqoYTQz0xMhWIjcQ)
+
+
+
+
+
+
+
+## 华为诺亚方舟实验室
+
+[华为诺亚方舟实验室2023届全球应届生校园招聘 (qq.com)](https://mp.weixin.qq.com/s/tz8yBO2DZM5QzB5oSK5i1g)
+
+
+
+
+
+
+
+## 虹软
+
+[校园招聘 | 虹软2023届校园招聘SP专场 (qq.com)](https://mp.weixin.qq.com/s/CFD9hJ9UzWryF43T_jq8Vg)
+
+
+
+
+
+
+
+## 锐捷网络
+
+[锐捷网络2023届校园招聘提前批正式启动！ (qq.com)](https://mp.weixin.qq.com/s/46u257lzfyN9iHjeSexLww)
+
+
+
+
+
+
+
+
+
+
+
+## 科大讯飞
+
+[科大讯飞2023届飞星计划正式启动！ (qq.com)](https://mp.weixin.qq.com/s/xCw-eWpB7VohA7MDlJnAIA)
+
+
+
+
+
+
+
+
+
+## 第四范式
+
+[第四范式2023届校园招聘正式启动！ (qq.com)](https://mp.weixin.qq.com/s/f-YXc_CYXXflXYBwSd-gdQ)
+
+
+
+
+
+
+
+
+
+
+
+## 蔚来
+
+[校招 | 蔚来2023届秋招研发提前批启动 (qq.com)](https://mp.weixin.qq.com/s/SjtTGjTWKyCIgAv92g7HzQ)
+
+蔚来是一个智能电动汽车品牌，于2014年11月成立，代表国产高端电动汽车参与全球竞争， [89]  旗下主要产品包括蔚来EC6、蔚来ES8、蔚来ES6、蔚来EP9、蔚来EVE等。蔚来致力于通过提供高性能的智能电动汽车与极致用户体验，为用户创造愉悦的生活方式。
+
+2014年11月，蔚来由李斌发起创立，并获得淡马锡、百度资本、红杉、厚朴、联想集团、华平、TPG、GIC、IDG、愉悦资本等数十家知名机构投资。 [2]  2018年9月12日，蔚来汽车在美国纽交所成功上市。中国总部设在安徽省合肥市蜀山区宿松路3963号智能科技园F栋。
+
+2020年2月25日，蔚来中国总部项目落户合肥，合肥市人民政府并对其100亿元战略性投资。2021年4月15日，中国石化分别与奥动新能源、蔚来汽车两家新能源企业签署战略合作协议，推动资源共享，促进互利共赢。2021年11月25日，蔚来发布公告称，已与国际能源巨头荷兰皇家壳牌集团签署战略合作协议。
+
+![image-20220620203544904](https://fastly.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206202035989.png)
 
 ## 中国网安/三十所
 
