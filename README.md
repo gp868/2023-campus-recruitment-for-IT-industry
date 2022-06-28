@@ -1,10 +1,100 @@
-# 🔥2023届互联网校招信息⌈提前批⌋ ⌈秋招⌋ ⌈春招⌋ 6.24更新
+# 🔥2023届互联网校招信息⌈提前批⌋ ⌈秋招⌋ ⌈春招⌋ 6.28更新
 
 后序会在 ⌈**卡卡成长汇聚**⌋ 微信公众号更新更多2023届互联网校招信息⌈提前批⌋ ⌈秋招⌋ ⌈春招⌋ 信息，关注获取最新消息：
 
 ![卡卡成长汇聚宣传](https://cdn.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205282027513.gif)
 
 # 提前批（最上方最新）
+
+## 荣耀
+
+官网：https://career.hihonor.com/SU60eea919bef57c1023f6fe78/pb/school.html?currentPage=2
+
+HONOR荣耀，于2013年诞生，是全球领先的智能终端提供商。我们致力于成为构建全场景、面向全渠道、服务全人群的全球标志性科技品牌，荣耀以创新、品质和服务作为三大战略控制点，坚持研发及前瞻性技术的持续投入，为全球消费者带来不断创新的智能设备，创造属于每个人的智慧新世界。
+
+荣耀在国内拥有四大研发基地，北京、西安、南京、深圳，50%以上员工为研发员工。荣耀具备全系列手机及智能生态产品的研发能力，率先在行业中推出多项创新技术。每款荣耀手机需经历400项以上严格测试标准。荣耀拥有3000＋服务中心、43个呼叫中心，覆盖全球82个以上国家或地区，为全球消费者提供快捷、高效的服务。
+
+
+
+
+
+## 鹰角网络
+
+[鹰角网络2023秋季校园招聘提前批开启啦！ (qq.com)](https://mp.weixin.qq.com/s/MjUBxB18CClkU9tkeQLhOg)
+
+
+
+## 滴滴C++
+
+![image-20220628131125626](https://fastly.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206281311679.png)
+
+
+
+
+
+
+
+
+
+## SHEIN
+
+[SHEIN2023校园招聘提前批正式启动 (qq.com)](https://mp.weixin.qq.com/s/qFUoIiT-zXGc5G2cEAj3bA)
+
+
+
+
+
+## 超参数科技
+
+[超参数科技2023届校园招聘提前批正式启动 (qq.com)](https://mp.weixin.qq.com/s/il8fuswfD1LkX3TwCbEYCg)
+
+
+
+## 卡特彼勒
+
+[卡特彼勒2023届校招研发提前批 (qq.com)](https://mp.weixin.qq.com/s/CQZVgPNg5sMWE-aE82dkNg)
+
+
+
+## 嘉楠科技
+
+[校园招聘 | 嘉楠科技2023校园招聘技术提前批启动 (qq.com)](https://mp.weixin.qq.com/s/A9cX-QRgJc72p4Sh3_AJfQ)
+
+
+
+## 隆基绿能
+
+[提前批 | 隆基绿能2023届校招提前批 (qq.com)](https://mp.weixin.qq.com/s/oMMo32nOPekJgN2vurrDGg)
+
+
+
+## Neo
+
+[校招｜Neo 2023届校招暨实习 (qq.com)](https://mp.weixin.qq.com/s/MQ3MCYahFjBrWVtM4C5c6A)
+
+## 中兴通讯
+
+[校招 | 中兴通讯2023届“未来领军”人才招聘 (qq.com)](https://mp.weixin.qq.com/s/HSJo-XaRXc_SuSLCGNcxYA)
+
+
+
+
+
+## 华为2012实验室
+
+[华为2012实验室23届顶尖人才招聘！ (qq.com)](https://mp.weixin.qq.com/s/LwaHLShttsdQlU3sutmfsw)
+
+
+
+
+
+## 长鑫存储
+
+[招聘 | 长鑫存储2023校招提前批来啦！ (qq.com)](https://mp.weixin.qq.com/s/9_KckYG-p8rtk2hLQQC9EA)
+
+
+
+
 
 ## 华为云核心网
 
@@ -36,71 +126,59 @@
 
 [校园招聘 | 华为集团IT2023届顶尖人才招聘 (qq.com)](https://mp.weixin.qq.com/s/hLam6_NqoYTQz0xMhWIjcQ)
 
+**质量与流程IT部，简称集团IT**，作为企业数字平台的主战部队，承载了“全联接”、“云计算”、“数字化应用构建”、“智能运维与运营”、“安全”领域的云平台服务交付工作，构建行业领先的数字化转型平台，一方面，基于大数据、AI、物联网、边缘计算等技术，构建云平台技术底座，为数字平台注入前沿技术基因，保证平台技术栈持续更迭；另一方面，结合华为实际业务场景，探索传统企业数字化转型之道，技术在变、业务的实质未变，秉承业务运作的敬畏之心，技术服务业务，技术适配业务，技术提升业务，完成自身的数字化转型，并逐步成为行业标杆，我们的愿景是：“构建全联接智能华为”。
 
-
-
-
-
+岗位见推文，有点儿多。
 
 ## 华为诺亚方舟实验室
 
 [华为诺亚方舟实验室2023届全球应届生校园招聘 (qq.com)](https://mp.weixin.qq.com/s/tz8yBO2DZM5QzB5oSK5i1g)
 
+诺亚方舟实验室（Noah's Ark Lab）是华为公司从事**人工智能基础研究**的实验室，秉持理论研究与应用创新并重的理念，致力于推动人工智能领域的技术创新和发展，并为华为公司的产品和服务提供支撑。
 
+在理论研究方面，我们拥有来自全球顶尖高校、优秀企业的高水平研究员，同时我们与世界顶尖创新资源保持连接，包括10+国家、25+大学、50+项目、1000+研究人员。2021年诺亚方舟实验室在各顶会中成绩斐然：顶会论文230篇。
 
+![image-20220628130539170](https://fastly.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206281306953.png)
 
-
-
+![image-20220628130650738](https://fastly.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206281306832.png)
 
 ## 虹软
 
 [校园招聘 | 虹软2023届校园招聘SP专场 (qq.com)](https://mp.weixin.qq.com/s/CFD9hJ9UzWryF43T_jq8Vg)
 
+官网：https://www.arcsoft.com.cn/job/JobList.html
 
+虹软科技股份有限公司是**计算机视觉行业**领先的算法服务提供商及解决方案供应商，服务于世界各地的客户，将领先的计算机视觉技术与人工智能技术商业化应用在智能手机、智能汽车、智能家居、智能零售、互联网视频等领域，并且仍在不断探索新的领域与方向。公司在杭州、上海、南京、深圳、台北、硅谷、东京、都柏林等地设有商业与研发基地。
 
-
-
-
+![image-20220628130113704](https://fastly.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206281306019.png)
 
 ## 锐捷网络
 
-[锐捷网络2023届校园招聘提前批正式启动！ (qq.com)](https://mp.weixin.qq.com/s/46u257lzfyN9iHjeSexLww)
+[锐捷网络2023届校园招聘提前批正式启动！ (qq.com)](https://mp.weixin.qq.com/s/1XEVQrYsAtjUnZACxGWwbg)
 
+官网：https://app.mokahr.com/campus_apply/ruijie/56200#/jobs?zhineng=97804&page=1
 
+锐捷网络，正式成立于2003年，是行业领先的**ICT（信息与通信）基础设施及行业解决方案提供商**，中国网络设备三大厂商之一在全球拥有7大研发中心、50多个办事处、7000多名员工，20000多家合作伙伴，业务遍及50多个国家和地区。作为首批国家创新型企业，锐捷为各行业用户提供交换机、无线与物联网、云桌面、路由器、网络安全、IT运维管理，智慧教室、身份管理等系列产品和解决方案，是国家“新基建”战略基础设施的重要组成部分，强支撑5G、一体化大数据中心、人工智能、云计算等领域的建设和应用，助力百行百业数字化转型升级。
 
-
-
-
-
-
-
-
+![image-20220628130010447](https://fastly.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206281300545.png)
 
 ## 科大讯飞
 
-[科大讯飞2023届飞星计划正式启动！ (qq.com)](https://mp.weixin.qq.com/s/xCw-eWpB7VohA7MDlJnAIA)
+[科大讯飞2023届飞星计划正式启动！ (qq.com)](https://mp.weixin.qq.com/s/lv2t9XuX5-TIJuNX-P62aQ)
 
+官网：https://campus.iflytek.com/official-pc/jobList
 
+科大讯飞股份有限公司成立于1999年，是亚太地区知名的**智能语音和人工智能**上市企业。自成立以来，一直从事智能语音、自然语言理解、计算机视觉等核心技术研究并保持了国际前沿技术水平；积极推动人工智能产品和行业应用落地，致力让机器“能听会说，能理解会思考”，用人工智能建设美好世界。2008年，公司在深圳证券交易所挂牌上市（股票代码：002230）。
 
-
-
-
-
-
+![image-20220628125555638](https://fastly.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206281255712.png)
 
 ## 第四范式
 
-[第四范式2023届校园招聘正式启动！ (qq.com)](https://mp.weixin.qq.com/s/f-YXc_CYXXflXYBwSd-gdQ)
+[第四范式2023届校园招聘正式启动！ (qq.com)](https://mp.weixin.qq.com/s/G38V3fXcCf04GSD21ajC0g)
 
+第四范式成立于2014年9月，是**企业级人工智能领域**的行业先驱者与领导者。第四范式提供以平台为中心的**人工智能**解决方案，并运用核心技术开发了端到端的企业级人工智能产品，致力于解决企业智能化转型中面临的效率、成本、价值问题，提升企业的决策水平。现已广泛应用于金融、零售、制造、能源与电力、电信及医疗保健等领域，在中国所有以平台为中心的决策型企业级AI市场中排名第一。
 
-
-
-
-
-
-
-
-
+![image-20220628123515466](https://fastly.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206281235551.png)
 
 ## 蔚来
 
