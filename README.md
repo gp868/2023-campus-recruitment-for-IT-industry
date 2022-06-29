@@ -1,10 +1,20 @@
-# 🔥2023届互联网校招信息⌈提前批⌋ ⌈秋招⌋ ⌈春招⌋ 6.28更新
+# 🔥2023届互联网校招信息⌈提前批⌋ ⌈秋招⌋ ⌈春招⌋ 6.29更新
 
 后序会在 ⌈**卡卡成长汇聚**⌋ 微信公众号更新更多2023届互联网校招信息⌈提前批⌋ ⌈秋招⌋ ⌈春招⌋ 信息，关注获取最新消息：
 
 ![卡卡成长汇聚宣传](https://cdn.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205282027513.gif)
 
 # 提前批（最上方最新）
+
+## 英特尔中国
+
+[英特尔中国2023校园招聘“芯”动开启！ (qq.com)](https://mp.weixin.qq.com/s/IQoDLc1gvx0LLIfyTmyErw)
+
+
+
+
+
+
 
 ## 荣耀
 
@@ -72,19 +82,29 @@ HONOR荣耀，于2013年诞生，是全球领先的智能终端提供商。我�
 
 [校招｜Neo 2023届校招暨实习 (qq.com)](https://mp.weixin.qq.com/s/MQ3MCYahFjBrWVtM4C5c6A)
 
+
+
+
+
 ## 中兴通讯
 
-[校招 | 中兴通讯2023届“未来领军”人才招聘 (qq.com)](https://mp.weixin.qq.com/s/HSJo-XaRXc_SuSLCGNcxYA)
+[中兴通讯2023届“未来领军”人才招聘正式启动 (qq.com)](https://mp.weixin.qq.com/s/21pMdR06Xop2aU98YfZtnQ)
 
+官网：https://app.mokahr.com/campus-recruitment/zte/46903#/jobs?project=100020161
 
+“未来领军”是中兴通讯面向全球顶尖毕业生打造的校园招聘项目，旨在选拔专业实力卓越、综合素质拔尖的同学，包括蓝剑、SSP、博士人才，致力于培养顶尖学生成为中兴通讯未来的领军人才。
+
+![image-20220629093441671](https://fastly.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206290934761.png)
 
 
 
 ## 华为2012实验室
 
-[华为2012实验室23届顶尖人才招聘！ (qq.com)](https://mp.weixin.qq.com/s/LwaHLShttsdQlU3sutmfsw)
+[华为2012实验室23届顶尖人才招聘 (qq.com)](https://mp.weixin.qq.com/s/nBkKE0wZNivA9NINEQ9IkA)
 
+2012实验室是华为公司的技术研究与创新中心，专注于前沿技术研究、产品技术竞争力构建和新产业孵化。业务涵盖了未来网络/人工智能/计算集群/芯片/操作系统/数据库/媒体技术/安全/精密制造等所有ICT相关领域。2012实验室已经做出了5G/鸿蒙OS内核/Mate X铰链/华为四摄模组等一系列令人嘱目的成就。
 
+![img](https://fastly.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206290933194.jpeg)
 
 
 
@@ -92,33 +112,47 @@ HONOR荣耀，于2013年诞生，是全球领先的智能终端提供商。我�
 
 [招聘 | 长鑫存储2023校招提前批来啦！ (qq.com)](https://mp.weixin.qq.com/s/9_KckYG-p8rtk2hLQQC9EA)
 
+官网：http://jobs.cxmt.com/Campus
 
+2016年5月，长鑫存储技术有限公司（以下简称长鑫存储）的事业在“创新之都”一**安徽合肥**启动。作为一体化**存储器制造商**，公司专业从事动态随机存取存储芯片（DRAM）的设计、研发、生产和销售，目前12英寸晶圆厂已建成投产。DRAM产品广泛应用于移动终端、电脑、服务器、虚拟现实和物联网等领域，市场需求巨大并持续增长。长蠢存储将凭借值得信赖的产品和服务满足不断增长的市场需求，致力于成为技术领先与商业成功的半导体存储公以存储科技赋能信息社会，改善人类生活。
 
-
+![img](https://fastly.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206290931978.png)
 
 ## 华为云核心网
 
-[校招 | 华为云核心网23届顶尖校招 (qq.com)](https://mp.weixin.qq.com/s/hswx8VkqjUExb1QBtpiT7Q)
+[【招聘信息】华为云核心网23届顶尖校招 (qq.com)](https://mp.weixin.qq.com/s/zsgEG8_E8qkBkqwNet9hHA)
 
+云核心网作为网络大脑的智能核心，是连接行业网络、电信网络和互联网络的枢纽，融合全制式接入，调度全网络能力，让5G联接无处不在，加速产业数字化和智能化，推动业务创新与社会进步，赋能干行百业。主要聚焦在5G、全云全栈、音视频、网络自动驾驶等领域，提供从MEC、切片、电信云、话音、视频、数据到自动驾驶网络的全系列核心网软硬件产品和解决方案。
 
+![image-20220629092907422](https://fastly.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206290929553.png)
 
 
 
 ## 高德红外
 
-[招聘信息 | 高德红外2023届校园招聘提前批正式启动 (qq.com)](https://mp.weixin.qq.com/s/K82qwtM-VlgP3O0tT2SRKw)
+[高德红外2023届校园招聘提前批正式启动 (qq.com)](https://mp.weixin.qq.com/s/4E9nFWS_pASc-YMlzRED3g)
 
+官网：https://wecruit.hotjob.cn/SU61137860bef57c653306515b/pb/school.html?currentPage=2
 
+**武汉**高德红外股份有限公司（SZ.002414）创立于1999年，位于“中国光谷国家自主创新示范区”，是规模化从事红外核心器件、红外热像仪、大型光电系统研发、生产、销售的高新技术上市公司。公司现拥有高科技人才4000余名，已建成覆盖底层红外核心器件至顶层完整装备系统的全红外产业链研制基地。
 
+![image-20220629092617532](https://fastly.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206290926638.png)
 
+![image-20220629092633829](https://fastly.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206290926933.png)
 
 
 
 ## 电科莱斯
 
-[校招 | 电科莱斯2023届校招提前批 (qq.com)](https://mp.weixin.qq.com/s/8-SOdHunQFpGKP6ADteQxw)
+[电科莱斯、28所2023届暑期开放日暨提前批次校园招聘全面启动 (qq.com)](https://mp.weixin.qq.com/s/syiZPIbBrB8G-B53eZ9j6w)
 
+官网：https://app.mokahr.com/campus_apply/cetcles/40889#/jobs?zhineng=66507
 
+中国电子科技集团公司第二十八研究所（简称“二十八所”）又称南京电子工程研究所，始建于1964年，是主要从事军用信息系统顶层设计及总体论证、军事指挥信息系统、共性及应用软件设计开发、系统专用设备设计制造与装备集成、信息系统装备联试与集成验证服务的大型骨干研究所。
+
+中电莱斯信息系统集团有限公司（简称“电科莱斯）于2018年4月23日注册成立，位于江苏南京，是以中国电子科技集团公司第二十八研究所为基础打造的现代化国有企业集团，隶属十大军工集团之一的中国电子科技集团有限公司。
+
+![image-20220629092204841](https://fastly.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206290922009.png)
 
 
 
