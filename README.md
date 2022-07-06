@@ -1,10 +1,30 @@
-# 🔥2023届互联网校招信息⌈提前批⌋ ⌈秋招⌋ ⌈春招⌋ 7.5更新
+# 🔥2023届互联网校招信息⌈提前批⌋ ⌈秋招⌋ ⌈春招⌋ 7.6更新
 
 后序会在 ⌈**卡卡成长汇聚**⌋ 微信公众号更新更多2023届互联网校招信息⌈提前批⌋ ⌈秋招⌋ ⌈春招⌋ 信息，关注获取最新消息：
 
 ![卡卡成长汇聚宣传](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205282027513.gif)
 
 # 提前批（最上方最新）
+
+## 巨人网络
+
+[巨人网络2023届校园招聘提前批正式启动 (qq.com)](https://mp.weixin.qq.com/s/IbmI9TSU7bvlUshjAVNn2Q)
+
+## 大疆
+
+[DJI 大疆创新 2023 “拓疆者”秋季校园招聘正式开启！ (qq.com)](https://mp.weixin.qq.com/s/j2A4sUUyllfmNqUV9zE8pw)
+
+## 美的
+
+[美的集团2023校招提前批正式启动！ (qq.com)](https://mp.weixin.qq.com/s/_fKhP5-BKxlSC5ttqnltWA)
+
+
+
+## 乐鑫科技
+
+[AIoT芯片原厂+硬核技术自研+薪酬竞争力MAX！乐鑫科技23届校招提前批【AI+软件专场】开启！文末可内推 (qq.com)](https://mp.weixin.qq.com/s/zbU6oIK4pkBcmIJ2v85umA)
+
+
 
 ## 禾赛科技
 
@@ -15,8 +35,6 @@
 ## 麦肯锡
 
 [麦肯锡中国2023年校园招聘全面启动！ (qq.com)](https://mp.weixin.qq.com/s/4jcb-f0D7bkFY7HJKJGN0g)
-
-
 
 
 
