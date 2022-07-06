@@ -2,9 +2,15 @@
 
 后序会在 ⌈**卡卡成长汇聚**⌋ 微信公众号更新更多2023届互联网校招信息⌈提前批⌋ ⌈秋招⌋ ⌈春招⌋ 信息，关注获取最新消息：
 
-![卡卡成长汇聚宣传](https://cdn.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205282027513.gif)
+![卡卡成长汇聚宣传](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205282027513.gif)
 
 # 提前批（最上方最新）
+
+## 禾赛科技
+
+[用新视界看新世界 | 禾赛科技2023届秋招提前批开启！ (qq.com)](https://mp.weixin.qq.com/s/cZBoncRqpUjaPG9PdtTh5w)
+
+
 
 ## 麦肯锡
 
@@ -120,7 +126,7 @@ SHEIN是一家全球领先的快时尚电商品牌平台，通过追求技术革
 
 超参数科技是一家专注于**AI领域**的科技公司，致力于「打造有生命的Al」，创造一个10亿人与100亿AI共同生活的虚拟世界。公司于2019年初在中国深圳成立，目前已连续获得来自红杉中国、高领资本、五源资本、高格资本等的多轮投资，估值达到独角兽。
 
-![image-20220705220129874](https://gcore.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207052201941.png)
+![image-20220705220129874](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207052201941.png)
 
 
 
@@ -134,7 +140,7 @@ SHEIN是一家全球领先的快时尚电商品牌平台，通过追求技术革
 
 嘉楠科技（canaan）是一家芯片设计公司，以"区块链+Al"为多元化经营战略，定位于数字新基建算力提供商，愿景是“提升社会运行效率，改善人类生活方式"。2013年，嘉楠科技由董事长兼CEO张楠康创办，并发布了全球首款基于ASIC芯片的区块链计算设备，引领行业进入ASIC时代。2016年公司实现16nm芯片量产，通过国家高新技术企业认定。2017年被正式评定为杭州市高科技独角兽企业。
 
-![image-20220705215405387](https://gcore.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207052154725.png)
+![image-20220705215405387](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207052154725.png)
 
 ## Neo
 
@@ -144,9 +150,9 @@ SHEIN是一家全球领先的快时尚电商品牌平台，通过追求技术革
 
 Neo 是一个由开源社区驱动的区块链平台。作为功能最全面的区块链开发平台，Neo 开发者可以通过智能合约将资产数字化并进行自动化管理。Neo 还提供了强大的原生基础设施，包括去中心化存储、预言机和去中心化身份系统，为下一代互联网奠定坚实基础。
 
-![image-20220705215144294](https://gcore.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207052151940.png)
+![image-20220705215144294](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207052151940.png)
 
-![image-20220705214957801](https://gcore.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207052150715.png)
+![image-20220705214957801](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207052150715.png)
 
 
 
@@ -708,7 +714,7 @@ Shokz韶音凭借全球领先的**骨传导核心技术**、极致的产品工�
 
 有开发岗和算法岗。
 
-![image-20220529192943500](https://cdn.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291929557.png)
+![image-20220529192943500](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291929557.png)
 
 ## 中国航天科工集团有限公司
 
@@ -732,9 +738,9 @@ Shokz韶音凭借全球领先的**骨传导核心技术**、极致的产品工�
 
 软开岗位会分好几个领域：
 
-![image-20220529152735802](https://cdn.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291527852.png)
+![image-20220529152735802](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291527852.png)
 
-![image-20220529142959862](https://cdn.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291429924.png)
+![image-20220529142959862](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291429924.png)
 
 ## 百度（算法）
 
@@ -742,7 +748,7 @@ Shokz韶音凭借全球领先的**骨传导核心技术**、极致的产品工�
 
 [百度校园招聘 (baidu.com)](https://talent.baidu.com/external/baidu/campus.html#/jobList/1)
 
-![image-20220529135150511](https://cdn.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291351546.png)
+![image-20220529135150511](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291351546.png)
 
 ## 广联达
 
@@ -752,7 +758,7 @@ Shokz韶音凭借全球领先的**骨传导核心技术**、极致的产品工�
 
 工作地点主要在上海、北京（总部）和西安。
 
-![image-20220528203259229](https://cdn.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205282032311.png)
+![image-20220528203259229](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205282032311.png)
 
 ## TP-link
 
@@ -764,7 +770,7 @@ TP-LINK总部位于中国**深圳**，自1996年成立以来便深耕国内市�
 
 工作地点主要有上海、杭州、南京、深圳（总部）。
 
-![image-20220528203909677](https://cdn.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205282039770.png)
+![image-20220528203909677](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205282039770.png)
 
 ## 三一集团
 
@@ -778,7 +784,7 @@ TP-LINK总部位于中国**深圳**，自1996年成立以来便深耕国内市�
 
 每个岗位的要求也并没有特别详细，可以大胆尝试。
 
-![image-20220528204502355](https://cdn.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205282045423.png)
+![image-20220528204502355](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205282045423.png)
 
 ## 三环集团
 
@@ -790,7 +796,7 @@ TP-LINK总部位于中国**深圳**，自1996年成立以来便深耕国内市�
 
 潮州三环（集团）股份有限公司成立于1970年，2014年在深交所上市（股票代码：300408），是一家致力于**研发、生产及销售电子基础材料、电子元件、通信器件**等产品的综合性企业。公司产品覆盖**光通信、电子、电工、机械、节能环保、新能源和时尚**等众多应用领域，其中光纤连接器陶瓷插芯、氧化铝陶瓷基板、电阻器用陶瓷基体等产销量均居全球前列。公司被评为国家高新技术企业、中国制造业单项冠军示范企业，连续多年名列**中国电子元件百强前十名**。
 
-![image-20220528210551514](https://cdn.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205282105598.png)
+![image-20220528210551514](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205282105598.png)
 
 ## 北森
 
@@ -802,9 +808,9 @@ TP-LINK总部位于中国**深圳**，自1996年成立以来便深耕国内市�
 
 北森一直秉承“科技成就人才”的企业使命，累计获得自主知识产权100 余项，其全员参与的客户成功体系已经累计成功服务5000余家大中型企业、上千万员工，北森云平台每天处理超过10亿条数据。
 
-![image-20220528205934160](https://cdn.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205282059244.png)
+![image-20220528205934160](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205282059244.png)
 
-![image-20220528205934160](https://cdn.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205282059244.png)
+![image-20220528205934160](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205282059244.png)
 
 ## 青岛鼎信通讯
 
@@ -814,9 +820,9 @@ TP-LINK总部位于中国**深圳**，自1996年成立以来便深耕国内市�
 
 鼎信通讯具有深厚技术储备与完善产品体系，**专注于电力线载波通信技术和总线通信技术的基础理论研究**，基于行业领先的综合解决方案，转化为“软件+硬件+服务”相结合的终端产品，主要应用于**国家智能电网的用电信息采集系统**，在电力深化应用与信息系统建设方面具有丰厚经验。依托对智能电网的深度理解，聚焦客户关注的挑战与压力，在低压用电领域横向扩张，纵向打通，持续开展中压载波、配电网自动化、电能质量、10kV充电站、电弧故障保护等技术的研发，积极拓展技术应用新领域，是电力行业优质供应商。
 
-![image-20220529133341764](https://cdn.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291333818.png)
+![image-20220529133341764](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291333818.png)
 
-![image-20220529133403517](https://cdn.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291334575.png)
+![image-20220529133403517](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291334575.png)
 
 ## 海尔智家
 
@@ -824,7 +830,7 @@ TP-LINK总部位于中国**深圳**，自1996年成立以来便深耕国内市�
 
 海尔总部位于**青岛**，在青岛本地是非常不错的就业单位。提前批中开发岗的话只有运维和测试，另外就是算法岗了。海尔的业务面也非常广，还有智能制造、营销、市场、人工智能等等岗位，怪不得是青岛的就业大户🎊。
 
-![image-20220529133717194](https://cdn.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291337365.png)
+![image-20220529133717194](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291337365.png)
 
 ## 海尔卡奥斯
 
@@ -836,7 +842,7 @@ TP-LINK总部位于中国**深圳**，自1996年成立以来便深耕国内市�
 
 在业务板块上，卡奥斯COSMOPlat覆盖工业互联网平台建设和运营、工业智能技术研究和应用、工业软件及工业APP开发、智能工厂建设及软硬件集成服务、采供销数字化资源配置等板块，面向家电家居、能源、医疗、服装、装备、电子、汽车等行业提供智能制造、数字化创新等服务，并为产业园区、区域政府提供数字化管理及综合服务平台建设、产业咨询规划等服务。
 
-![image-20220529191704650](https://cdn.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291917418.png)
+![image-20220529191704650](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291917418.png)
 
 ## 海尔其他生态
 
@@ -846,9 +852,9 @@ TP-LINK总部位于中国**深圳**，自1996年成立以来便深耕国内市�
 
 可在左侧选择部门，有大量互联网相关的岗位。
 
-![image-20220529192506638](https://cdn.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291925770.png)
+![image-20220529192506638](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291925770.png)
 
-![image-20220529192549107](https://cdn.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291925182.png)
+![image-20220529192549107](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291925182.png)
 
 ## 最右
 
@@ -858,7 +864,7 @@ TP-LINK总部位于中国**深圳**，自1996年成立以来便深耕国内市�
 
 最右成立于2014年，目前是一家D轮的创业型**准独角兽**互联网公司。 目前我们有超过2亿的注册用户，平均每两个95后就有一人使用过最右的产品。 最右的创始人们有十年以上的创业经验，在互联网行业有时间和经验的双重积累。
 
-![image-20220529134646989](https://cdn.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291346042.png)
+![image-20220529134646989](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291346042.png)
 
 ## 国家电网-南京自动化股份有限责任公司
 
@@ -868,7 +874,7 @@ TP-LINK总部位于中国**深圳**，自1996年成立以来便深耕国内市�
 
 其中软件开发工程师偏java，通信类产品研发工程师偏C、C++，还要懂通信原理。
 
-![image-20220529135547953](https://cdn.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291355116.png)
+![image-20220529135547953](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291355116.png)
 
 ## 中国宝武
 
@@ -876,11 +882,11 @@ TP-LINK总部位于中国**深圳**，自1996年成立以来便深耕国内市�
 
 **央企**，计算机相关岗位主要由上海宝钢下属子公司**宝武碳业科技股份有限公司**招聘，base上海。宝钢有巨多子公司分布在全国各地：[中国宝武子公司介绍](http://campus.51job.com/baowugroup/about.html)，其他子公司会招制造、管理、化工、能源等几乎所有的行业。
 
-![image-20220529140242495](https://cdn.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291402545.png)
+![image-20220529140242495](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291402545.png)
 
 本次招聘的有如下子公司：
 
-![image-20220529140900715](https://cdn.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291409779.png)
+![image-20220529140900715](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291409779.png)
 
 ## 星猿哲XYZ Robotics
 
@@ -894,5 +900,5 @@ TP-LINK总部位于中国**深圳**，自1996年成立以来便深耕国内市�
 
 **成立于2018年**，公司在4年内连续获得多家头部VC基金投资（今日资本、高格、五源、源码、创新工场等），目前**已完成B+轮融资**，融资额度及产品落地速度均领跑所处赛道。凭借全球领先的3D视觉、机器人运动规划和夹具设计等前沿技术，星猿哲科技为物流和制造业提供小件无序分拣、拆码垛、深筐上下料与装配等全套产品解决方案，目前已广泛应用于工业、物流、电商、汽车零部件、日化、医药、消费品等行业头部企业。
 
-![image-20220529141118377](https://cdn.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291411424.png)
+![image-20220529141118377](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291411424.png)
 
