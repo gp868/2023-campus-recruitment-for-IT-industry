@@ -1,10 +1,18 @@
-# 🔥2023届互联网校招信息⌈提前批⌋ ⌈秋招⌋ ⌈春招⌋ 7.6更新
+# 🔥2023届互联网校招信息⌈提前批⌋ ⌈秋招⌋ ⌈春招⌋ 7.7更新
 
 后序会在 ⌈**卡卡成长汇聚**⌋ 微信公众号更新更多2023届互联网校招信息⌈提前批⌋ ⌈秋招⌋ ⌈春招⌋ 信息，关注获取最新消息：
 
 ![卡卡成长汇聚宣传](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205282027513.gif)
 
 # 提前批（最上方最新）
+
+## 中国电信翼支付
+
+[运营商 | 中国电信翼支付2023届校招 (qq.com)](https://mp.weixin.qq.com/s/Evp1ORnnoSaCLr8dbKsUaA)
+
+## 字节跳动
+
+[字节跳动 2023 校园招聘研发提前批正式启动！ (qq.com)](https://mp.weixin.qq.com/s/UIImrY1kmb9eQ2z-xYHRwA)
 
 ## 巨人网络
 
@@ -919,4 +927,32 @@ TP-LINK总部位于中国**深圳**，自1996年成立以来便深耕国内市�
 **成立于2018年**，公司在4年内连续获得多家头部VC基金投资（今日资本、高格、五源、源码、创新工场等），目前**已完成B+轮融资**，融资额度及产品落地速度均领跑所处赛道。凭借全球领先的3D视觉、机器人运动规划和夹具设计等前沿技术，星猿哲科技为物流和制造业提供小件无序分拣、拆码垛、深筐上下料与装配等全套产品解决方案，目前已广泛应用于工业、物流、电商、汽车零部件、日化、医药、消费品等行业头部企业。
 
 ![image-20220529141118377](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291411424.png)
+
+# 实习
+
+## 索尼
+
+[【实习信息】@2023届｜索尼工程师“星计划”实习生招聘正式启动 (qq.com)](https://mp.weixin.qq.com/s/edEVTxMHLYDNWu0keCcDsA)
+
+## 理想汽车
+
+[实习信息 | 理想汽车2023届软件研发暑期实习生招聘进行中 (qq.com)](https://mp.weixin.qq.com/s/51cfYidbLVB401qK5sNZ3g)
+
+## 智己汽车
+
+[实习|智己汽车2023届暑期实习生火热招募中 (qq.com)](https://mp.weixin.qq.com/s/D2t_L4B26ceqLZLE3t_KHQ)
+
+## 九坤
+
+[招聘+实习 | 九坤AI类热门招聘：αi +1，未来可期 (qq.com)](https://mp.weixin.qq.com/s/miFiRKPv2DowQ6S-SGLV-Q)
+
+
+
+
+
+
+
+
+
+
 
