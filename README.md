@@ -1,10 +1,22 @@
-# 🔥2023届互联网校招信息⌈提前批⌋ ⌈秋招⌋ ⌈春招⌋ 7.7更新
+# 🔥2023届互联网校招信息⌈提前批⌋ ⌈秋招⌋ ⌈春招⌋ 7.14更新
 
 后序会在 ⌈**卡卡成长汇聚**⌋ 微信公众号更新更多2023届互联网校招信息⌈提前批⌋ ⌈秋招⌋ ⌈春招⌋ 信息，关注获取最新消息：
 
 ![卡卡成长汇聚宣传](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205282027513.gif)
 
 # 提前批（最上方最新）
+
+## NVIDIA
+
+[NVIDIA 2023校园招聘现已开启！ (qq.com)](https://mp.weixin.qq.com/s/eGN0aDoPc9WZ-_IwdZEGUw)
+
+## 百度
+
+[百度2023届校园招聘正式启动！ (qq.com)](https://mp.weixin.qq.com/s/jYknxjBSLmRzgS3ralz7hw)
+
+## 中国电信天翼云
+
+[校招 | 中国电信天翼云2022届校招 (qq.com)](https://mp.weixin.qq.com/s/5nl1aNNtj80NIgJ8gIFvew)
 
 ## 中国电信翼支付
 
@@ -60,19 +72,29 @@
 
 [米哈游2023秋季校园招聘正式启动！ (qq.com)](https://mp.weixin.qq.com/s/IwhVPuHB_Va2AqZTHaCaMw)
 
+官网：https://campus.mihoyo.com/#/campus/position
+
+![image-20220714220024178](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207142200171.png)
+
 
 
 ## 用友
 
-[用友2023届校园招聘高潜批次正式启动 (qq.com)](https://mp.weixin.qq.com/s/7D9zU3Oi0Jnwvf7erovHRw)
+[用友2023届校园招聘高潜批次正式启动 (qq.com)](https://mp.weixin.qq.com/s/1xU2DI7YWAvR7JcUpIRq6Q)
 
+官网：https://career.yonyou.com/SU61108d5b0dcad4106ff62e80/pb/school.html
 
+![img](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207142157290.png)
 
 
 
 ## OPPO
 
-[内推 | OPPO 2023届校园招聘提前批专场启动（文末有内推） (qq.com)](https://mp.weixin.qq.com/s/BaRMlIlk0OrPLiE54iYBFg)
+[OPPO 2023届校园招聘提前批专场启动 (qq.com)](https://mp.weixin.qq.com/s/9qwR91Zq9kYAuCzalQa_yQ)
+
+官网：https://careers.oppo.com/campus/post/home
+
+![img](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207142152309.png)
 
 
 
@@ -80,7 +102,9 @@
 
 [九坤投资2023校园招聘“梧桐计划”技术类提前批正式启动！ (qq.com)](https://mp.weixin.qq.com/s/eNYYzfsueVxBXKwH_Dk7kg)
 
+官网：https://app.mokahr.com/campus_apply/ubiquantrecruit/37031#/jobs?zhineng=84350
 
+![image-20220714215013854](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207142150575.png)
 
 
 
@@ -88,17 +112,23 @@
 
 [市场低靡期？这家游戏公司开始高薪招人了... (qq.com)](https://mp.weixin.qq.com/s/yhlrzK-8kfCOZChmzMHQtA)
 
+官网：http://official-website.hortorgames.com/#/web/list
+
+是心动的感觉：
+
+![image-20220714214617176](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207142146042.png)
+
+![image-20220714214634290](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207142146728.png)
+
 
 
 ## 英特尔中国
 
 [英特尔中国2023校园招聘“芯”动开启！ (qq.com)](https://mp.weixin.qq.com/s/IQoDLc1gvx0LLIfyTmyErw)
 
+官网：https://chinacampus.jobs.intel.cn/intel/position/index?recruitmentType=CAMPUSRECRUITMENT
 
-
-
-
-
+![image-20220714214503250](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207142145807.png)
 
 ## 荣耀
 
