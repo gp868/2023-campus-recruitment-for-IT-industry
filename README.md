@@ -1,10 +1,18 @@
-# 🔥2023届互联网校招信息⌈提前批⌋ ⌈秋招⌋ ⌈春招⌋ 7.15更新
+# 🔥2023届互联网校招信息⌈提前批⌋ ⌈秋招⌋ ⌈春招⌋ 7.18更新
 
 后序会在 ⌈**卡卡成长汇聚**⌋ 微信公众号更新更多2023届互联网校招信息⌈提前批⌋ ⌈秋招⌋ ⌈春招⌋ 信息，关注获取最新消息：
 
 ![卡卡成长汇聚宣传](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205282027513.gif)
 
 # 提前批（最上方最新）
+
+
+
+
+
+## Shopee
+
+[Shopee研发中心2023校园招聘正式启动 内推码 NTAL0eB (qq.com)](https://mp.weixin.qq.com/s/9dV4yw1-WXtSZUrkoYex9w)
 
 ## 联想中国
 
@@ -965,6 +973,10 @@ TP-LINK总部位于中国**深圳**，自1996年成立以来便深耕国内市�
 ![image-20220529141118377](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291411424.png)
 
 # 实习
+
+## 特斯拉
+
+[特斯拉研发实习生招聘中 (qq.com)](https://mp.weixin.qq.com/s/-z49pL_oOAccZJ-wBBRBxw)
 
 ## 索尼
 
