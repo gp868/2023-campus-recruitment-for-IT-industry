@@ -24,7 +24,7 @@
 
 [校招 | 荣耀2023届校园招聘正式启动 (qq.com)](https://mp.weixin.qq.com/s/G_Z_vVqvSux3xN264mEu-A)
 
-![image-20220731152009125](C:/Users/carlo/AppData/Roaming/Typora/typora-user-images/image-20220731152009125.png)
+![image-20220731152009125](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207311531600.png)
 
 ![image-20220731152022731](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207311520884.png)
 
