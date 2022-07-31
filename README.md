@@ -1,4 +1,4 @@
-# 🔥2023届互联网校招信息⌈提前批⌋ ⌈秋招⌋ ⌈春招⌋ 7.22更新
+# 🔥2023届互联网校招信息⌈提前批⌋ ⌈秋招⌋ ⌈春招⌋ 7.31更新
 
 后序会在 ⌈**卡卡成长汇聚**⌋ 微信公众号更新更多2023届互联网校招信息⌈提前批⌋ ⌈秋招⌋ ⌈春招⌋ 信息，关注获取最新消息：
 
@@ -6,13 +6,55 @@
 
 # 提前批/秋招
 
+## 快手
+
+[快手2023秋季校园招聘启动 (qq.com)](https://mp.weixin.qq.com/s/TIFg_GD-XYob0y9MBxugxA)
+
+![image-20220731152347397](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207311523701.png)
+
+## 金山云
+
+[云向未来|金山云2023届校园招聘提前批开启啦！ (qq.com)](https://mp.weixin.qq.com/s/ksYMSN0l74_BXxO0r6zpeQ)
+
+金山云创立于2012年，目前稳居中国公有云互联网云服务商前三（市场排名数据来源：沙利文《2021年中国公有云市场追踪报告》），2020年5月在美国纳斯达克上市（股票代码：KC），业务范围遍及全球多个国家和地区。
+
+![image-20220731152145981](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207311521482.png)
+
+## 荣耀
+
+[校招 | 荣耀2023届校园招聘正式启动 (qq.com)](https://mp.weixin.qq.com/s/G_Z_vVqvSux3xN264mEu-A)
+
+![image-20220731152009125](C:/Users/carlo/AppData/Roaming/Typora/typora-user-images/image-20220731152009125.png)
+
+![image-20220731152022731](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207311520884.png)
+
+## 网易互娱
+
+[网易游戏（互娱）2023校园招聘启动！ (qq.com)](https://mp.weixin.qq.com/s/3uQ2qqfUe2QgMe8qKF7I7Q)
+
+![image-20220731151919064](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207311519487.png)
+
+## 深信服
+
+[深信服2023届校园招聘提前批正式启动！ (qq.com)](https://mp.weixin.qq.com/s/cma6-0jtb2uXFRV00aAf4g)
+
+深信服科技（股票代码300454）成立于2000年12月是专注于企业级网络安全、云计算、IT基础设施及物联网的产品和服务供应商我们的实力：2020年荣登CCIA中国网络安全竞争力排行榜榜首、自2019年起连续3年荣登福布斯中国最具创新力企业榜
+
+![image-20220731151722176](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207311517831.png)
+
 ## 英特尔
 
-[英特尔研发2023校园招聘火热进行中！ (qq.com)](https://mp.weixin.qq.com/s/fQYqe3Y7xPw_jl5sS4kLlA)
+[英特尔研发2023校园招聘火热进行中！ (qq.com)](https://mp.weixin.qq.com/s/hGCaS7x39A0G-APSG5ZlRw)
+
+![img](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207311514760.png)
 
 ## 腾讯音乐
 
-[校招 | 腾讯音乐娱乐集团2023届校招 (qq.com)](https://mp.weixin.qq.com/s/253NM3TIW-zRPfLpIX121g)
+[【招聘推荐】腾讯音乐娱乐集团2023校园招聘技术大咖招募启动 (qq.com)](https://mp.weixin.qq.com/s/ZDwsac_HWT2Kpbr8Mvyrzg)
+
+只招聘博士生：
+
+![image-20220731151212971](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207311512292.png)
 
 ## 搜狐
 
@@ -22,49 +64,85 @@
 
 [Zoom 2023届校园招聘正式启动 (qq.com)](https://mp.weixin.qq.com/s/tlYuYBAUyJuUpF8c5YYCvQ)
 
+![image-20220731150738627](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207311507807.png)
+
+
+
 ## 小红书
 
-[小红书REDstar顶尖技术人才招聘计划正式启动！ (qq.com)](https://mp.weixin.qq.com/s/LlBAOyWjTGeuPV23kwiyVQ)
+[小红书REDstar顶尖技术人才招聘计划正式启动！ (qq.com)](https://mp.weixin.qq.com/s/EKzJkrnZ9INSIqLJ7Z70QQ)
+
+小红书是国内增长最快的移动互联网平台之一，以"Inspire Lives 分享和发现世界的精彩”为使命，帮助用户分享与发现并基于兴趣互动形成社区，已成为多元生活方式的聚集地，以此为基础，小红书上的内容与商业形成良性互动，并实现收入持续增长。
+
+![image-20220731150623148](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207311506461.png)
 
 ## Shopee
 
 [Shopee研发中心2023校园招聘正式启动 (qq.com)](https://mp.weixin.qq.com/s/7Tcqfs31VWna1-Bx7FREaQ)
 
+![image-20220731150335839](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207311503076.png)
+
 ## 联想中国
 
 [联想中国2023校园招聘全面启动！ (qq.com)](https://mp.weixin.qq.com/s/0Wdou6EiUfrD0e0KPEULVg)
 
+我惊了，联想在这么多城市都有岗的吗：
+
+![image-20220731150044769](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207311500861.png)
+
+![image-20220731150101904](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207311501601.png)
+
 ## NVIDIA
 
-[NVIDIA 2023校园招聘现已开启！ (qq.com)](https://mp.weixin.qq.com/s/eGN0aDoPc9WZ-_IwdZEGUw)
+[NVIDIA 2023校园招聘现已开启！ (qq.com)](https://mp.weixin.qq.com/s/mwFMHiykPXp1W9_XnNrk9Q)
+
+![image-20220731145705545](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207311457640.png)
+
+
 
 ## 百度
 
 [百度2023届校园招聘正式启动！ (qq.com)](https://mp.weixin.qq.com/s/jYknxjBSLmRzgS3ralz7hw)
 
+![image-20220731144451844](https://gcore.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207311444329.png)
+
 ## 中国电信天翼云
 
-[校招 | 中国电信天翼云2022届校招 (qq.com)](https://mp.weixin.qq.com/s/5nl1aNNtj80NIgJ8gIFvew)
+[招聘信息 | 中国电信天翼云2022届夏季校园招聘正式启动 (qq.com)](https://mp.weixin.qq.com/s/aMdH-JEEV_gah7-QVsOGvQ)
+
+天翼云科技有限公司（以下简称“天翼云”）是中国电信旗下一家科技型、服务型、安全型公司。天翼云以建设：研发、运营、生态合作和销售服务一体化方式，向客户提供计算、存储、分发、平台和应用等全栈云解决方案。
+
+![image-20220731144317725](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207311443551.png)
 
 ## 中国电信翼支付
 
-[运营商 | 中国电信翼支付2023届校招 (qq.com)](https://mp.weixin.qq.com/s/Evp1ORnnoSaCLr8dbKsUaA)
+[招聘 | 中国电信翼支付2023届校园招聘正式开启！ (qq.com)](https://mp.weixin.qq.com/s/pV3xrqqOeySkYLCkJq8zSA)
+
+天翼电子商务有限公司（以下简称“翼支付”）是中国电信集团有限公司的成员企业，是国资委双百改革和发改委第四批混改“双试点”企业，也是“双试点”企业中唯一的金融科技公司。公司以翼支付APP为载体，面向7000万月活用户，提供民生缴费、消费购物、金融理财等服务内容，依托区块链、云计算、大数据、人工智能等技术，赋能超1000万家线下商户门店及170余家线上知名电商。
+
+![image-20220731144039911](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207311440453.png)
+
+
 
 ## 字节跳动
 
 [字节跳动 2023 校园招聘研发提前批正式启动！ (qq.com)](https://mp.weixin.qq.com/s/UIImrY1kmb9eQ2z-xYHRwA)
 
+![image-20220731143852140](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207311438200.png)
+
 ## 巨人网络
 
-[巨人网络2023届校园招聘提前批正式启动 (qq.com)](https://mp.weixin.qq.com/s/IbmI9TSU7bvlUshjAVNn2Q)
+[巨人网络2023届校园招聘提前批正式启动 (qq.com)](https://mp.weixin.qq.com/s/QZtfmG6cnlo0DLl0BAvf6w)
+
+![image-20220731143737829](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207311437164.png)
 
 ## 大疆
 
-[DJI 大疆创新 2023 “拓疆者”秋季校园招聘正式开启！ (qq.com)](https://mp.weixin.qq.com/s/j2A4sUUyllfmNqUV9zE8pw)
+[DJI 大疆创新 2023 “拓疆者”秋季校园招聘正式开启！ (qq.com)](https://mp.weixin.qq.com/s/MynEYzErnYhjZeJTAyJoYA)
 
+深圳市大疆创新科技有限公司成立于 2006 年，如今已发展成为空间智能时代的技术、影像和教育方案引领者。成立以来，大疆创新的业务从无人机系统拓展至多元化产品体系，在无人机、手持影像系统、机器人教育、智能驾驶等多个领域成为全球领先的品牌，以一流的技术产品重新定义了“中国制造”的内涵，并在更多前沿领域不断革新产品与解决方案。
 
-
-
+![image-20220731143304660](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207311433063.png)
 
 ## 美的
 
