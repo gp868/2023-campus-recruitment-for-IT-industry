@@ -1,18 +1,68 @@
-# 🔥2023届互联网校招信息⌈提前批⌋ ⌈秋招⌋ ⌈春招⌋ 7.31更新
+# 🔥2023届互联网校招信息⌈提前批⌋ ⌈秋招⌋ ⌈春招⌋ 8.4更新
 
 后序会在 ⌈**卡卡成长汇聚**⌋ 微信公众号更新更多2023届互联网校招信息⌈提前批⌋ ⌈秋招⌋ ⌈春招⌋ 信息，关注获取最新消息：
 
 ![卡卡成长汇聚宣传](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205282027513.gif)
 
-# 提前批/秋招
+# 4399
 
-## 快手
+[4399游戏2023届校园招聘正式启动！ (qq.com)](https://mp.weixin.qq.com/s/K8OT7G_MFp3YNV79-f0imw)
+
+![image-20220804132028216](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202208041320610.png)
+
+# 美团
+
+[招5000人！美团2023届校园招聘全面启动 (qq.com)](https://mp.weixin.qq.com/s/d-t1zIJFmOvCuwcN374j7g)
+
+![image-20220804131915379](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202208041319730.png)
+
+# 蔚来
+
+[校招 | 蔚来2023届校园招募正式启动 (qq.com)](https://mp.weixin.qq.com/s/RBfwJuyO6rQaeO4MRt1Oaw)
+
+# Momenta
+
+[Momenta 2023届校园招聘正式启动 (qq.com)](https://mp.weixin.qq.com/s/p4_Uo90ulqh53nPvrhXvuw)
+
+![image-20220804130758804](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202208041308145.png)
+
+# 京东
+
+[寻找燃力「实」足的你｜京东2023校园招聘全面启动！ (qq.com)](https://mp.weixin.qq.com/s/MS_iH_osZOxmcuniIFd2ig)
+
+多城市有岗
+
+![image-20220804130548695](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202208041305626.png)
+
+# 网易有道
+
+[网易有道2023校园招聘启动！ (qq.com)](https://mp.weixin.qq.com/s/j0SkRbrU1A0kyA1z8VXX3w)
+
+Base北京
+
+![image-20220804130307712](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202208041303789.png)
+
+# 360
+
+[极客飞扬，与梦想零距离 | 360集团2023全球校园招聘正式启动！ (qq.com)](https://mp.weixin.qq.com/s/5HjD1Xh18Kb7Alez9hf--g)
+
+上海也有少量软开岗，大部分岗在北京。
+
+![image-20220804113932522](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202208041139320.png)
+
+# 微软
+
+[校招|微软2023校园招聘正式开启！ (qq.com)](https://mp.weixin.qq.com/s/xVcUSUdsKprCVf6xHor-Rg)6
+
+![image-20220801101259436](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202208011013256.png)
+
+# 快手
 
 [快手2023秋季校园招聘启动 (qq.com)](https://mp.weixin.qq.com/s/TIFg_GD-XYob0y9MBxugxA)
 
 ![image-20220731152347397](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207311523701.png)
 
-## 金山云
+# 金山云
 
 [云向未来|金山云2023届校园招聘提前批开启啦！ (qq.com)](https://mp.weixin.qq.com/s/ksYMSN0l74_BXxO0r6zpeQ)
 
@@ -20,7 +70,7 @@
 
 ![image-20220731152145981](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207311521482.png)
 
-## 荣耀
+# 荣耀
 
 [校招 | 荣耀2023届校园招聘正式启动 (qq.com)](https://mp.weixin.qq.com/s/G_Z_vVqvSux3xN264mEu-A)
 
@@ -28,13 +78,13 @@
 
 ![image-20220731152022731](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207311520884.png)
 
-## 网易互娱
+# 网易互娱
 
 [网易游戏（互娱）2023校园招聘启动！ (qq.com)](https://mp.weixin.qq.com/s/3uQ2qqfUe2QgMe8qKF7I7Q)
 
 ![image-20220731151919064](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207311519487.png)
 
-## 深信服
+# 深信服
 
 [深信服2023届校园招聘提前批正式启动！ (qq.com)](https://mp.weixin.qq.com/s/cma6-0jtb2uXFRV00aAf4g)
 
@@ -42,13 +92,13 @@
 
 ![image-20220731151722176](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207311517831.png)
 
-## 英特尔
+# 英特尔
 
 [英特尔研发2023校园招聘火热进行中！ (qq.com)](https://mp.weixin.qq.com/s/hGCaS7x39A0G-APSG5ZlRw)
 
 ![img](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207311514760.png)
 
-## 腾讯音乐
+# 腾讯音乐
 
 [【招聘推荐】腾讯音乐娱乐集团2023校园招聘技术大咖招募启动 (qq.com)](https://mp.weixin.qq.com/s/ZDwsac_HWT2Kpbr8Mvyrzg)
 
@@ -56,11 +106,11 @@
 
 ![image-20220731151212971](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207311512292.png)
 
-## 搜狐
+# 搜狐
 
 [搜狐集团2023秋季校园招聘内推正式开启 (qq.com)](https://mp.weixin.qq.com/s/lrY7vrroYK0DGKGI6uHVfA)
 
-## Zoom
+# Zoom
 
 [Zoom 2023届校园招聘正式启动 (qq.com)](https://mp.weixin.qq.com/s/tlYuYBAUyJuUpF8c5YYCvQ)
 
@@ -68,7 +118,7 @@
 
 
 
-## 小红书
+# 小红书
 
 [小红书REDstar顶尖技术人才招聘计划正式启动！ (qq.com)](https://mp.weixin.qq.com/s/EKzJkrnZ9INSIqLJ7Z70QQ)
 
@@ -76,13 +126,13 @@
 
 ![image-20220731150623148](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207311506461.png)
 
-## Shopee
+# Shopee
 
 [Shopee研发中心2023校园招聘正式启动 (qq.com)](https://mp.weixin.qq.com/s/7Tcqfs31VWna1-Bx7FREaQ)
 
 ![image-20220731150335839](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207311503076.png)
 
-## 联想中国
+# 联想中国
 
 [联想中国2023校园招聘全面启动！ (qq.com)](https://mp.weixin.qq.com/s/0Wdou6EiUfrD0e0KPEULVg)
 
@@ -92,7 +142,7 @@
 
 ![image-20220731150101904](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207311501601.png)
 
-## NVIDIA
+# NVIDIA
 
 [NVIDIA 2023校园招聘现已开启！ (qq.com)](https://mp.weixin.qq.com/s/mwFMHiykPXp1W9_XnNrk9Q)
 
@@ -100,13 +150,13 @@
 
 
 
-## 百度
+# 百度
 
 [百度2023届校园招聘正式启动！ (qq.com)](https://mp.weixin.qq.com/s/jYknxjBSLmRzgS3ralz7hw)
 
 ![image-20220731144451844](https://gcore.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207311444329.png)
 
-## 中国电信天翼云
+# 中国电信天翼云
 
 [招聘信息 | 中国电信天翼云2022届夏季校园招聘正式启动 (qq.com)](https://mp.weixin.qq.com/s/aMdH-JEEV_gah7-QVsOGvQ)
 
@@ -114,7 +164,7 @@
 
 ![image-20220731144317725](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207311443551.png)
 
-## 中国电信翼支付
+# 中国电信翼支付
 
 [招聘 | 中国电信翼支付2023届校园招聘正式开启！ (qq.com)](https://mp.weixin.qq.com/s/pV3xrqqOeySkYLCkJq8zSA)
 
@@ -124,19 +174,19 @@
 
 
 
-## 字节跳动
+# 字节跳动
 
 [字节跳动 2023 校园招聘研发提前批正式启动！ (qq.com)](https://mp.weixin.qq.com/s/UIImrY1kmb9eQ2z-xYHRwA)
 
 ![image-20220731143852140](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207311438200.png)
 
-## 巨人网络
+# 巨人网络
 
 [巨人网络2023届校园招聘提前批正式启动 (qq.com)](https://mp.weixin.qq.com/s/QZtfmG6cnlo0DLl0BAvf6w)
 
 ![image-20220731143737829](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207311437164.png)
 
-## 大疆
+# 大疆
 
 [DJI 大疆创新 2023 “拓疆者”秋季校园招聘正式开启！ (qq.com)](https://mp.weixin.qq.com/s/MynEYzErnYhjZeJTAyJoYA)
 
@@ -144,13 +194,13 @@
 
 ![image-20220731143304660](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207311433063.png)
 
-## 美的
+# 美的
 
 [美的集团2023校招提前批正式启动！ (qq.com)](https://mp.weixin.qq.com/s/LHB-Ig926nhAkTggoceEGA)
 
 ![image-20220721174227588](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207211742050.png)
 
-## 麦肯锡
+# 麦肯锡
 
 [麦肯锡中国2023年校园招聘全面启动！ (qq.com)](https://mp.weixin.qq.com/s/4jcb-f0D7bkFY7HJKJGN0g)
 
@@ -158,7 +208,7 @@
 
 
 
-## 网易游戏雷火
+# 网易游戏雷火
 
 [网易游戏雷火2023届秋季校园招聘全球开启！ (qq.com)](https://mp.weixin.qq.com/s/TZrfHx0mRzNKYkeLVmdA3w)
 
@@ -168,7 +218,7 @@
 
 
 
-## 米哈游
+# 米哈游
 
 [米哈游2023秋季校园招聘正式启动！ (qq.com)](https://mp.weixin.qq.com/s/IwhVPuHB_Va2AqZTHaCaMw)
 
@@ -178,7 +228,7 @@
 
 
 
-## 用友
+# 用友
 
 [用友2023届校园招聘高潜批次正式启动 (qq.com)](https://mp.weixin.qq.com/s/1xU2DI7YWAvR7JcUpIRq6Q)
 
@@ -188,7 +238,7 @@
 
 
 
-## OPPO
+# OPPO
 
 [OPPO 2023届校园招聘提前批专场启动 (qq.com)](https://mp.weixin.qq.com/s/9qwR91Zq9kYAuCzalQa_yQ)
 
@@ -198,7 +248,7 @@
 
 
 
-## 九坤投资
+# 九坤投资
 
 [九坤投资2023校园招聘“梧桐计划”技术类提前批正式启动！ (qq.com)](https://mp.weixin.qq.com/s/eNYYzfsueVxBXKwH_Dk7kg)
 
@@ -208,7 +258,7 @@
 
 
 
-## 疯狂游戏公司
+# 疯狂游戏公司
 
 [市场低靡期？这家游戏公司开始高薪招人了... (qq.com)](https://mp.weixin.qq.com/s/yhlrzK-8kfCOZChmzMHQtA)
 
@@ -222,7 +272,7 @@
 
 
 
-## 英特尔中国
+# 英特尔中国
 
 [英特尔中国2023校园招聘“芯”动开启！ (qq.com)](https://mp.weixin.qq.com/s/IQoDLc1gvx0LLIfyTmyErw)
 
@@ -230,7 +280,7 @@
 
 ![image-20220714214503250](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207142145807.png)
 
-## 荣耀
+# 荣耀
 
 官网：https://career.hihonor.com/SU60eea919bef57c1023f6fe78/pb/school.html?currentPage=2
 
@@ -244,7 +294,7 @@ HONOR荣耀，于2013年诞生，是全球领先的智能终端提供商。我�
 
 
 
-## 鹰角网络
+# 鹰角网络
 
 [鹰角网络2023秋季校园招聘提前批开启啦！ (qq.com)](https://mp.weixin.qq.com/s/MjUBxB18CClkU9tkeQLhOg)
 
@@ -254,15 +304,13 @@ HONOR荣耀，于2013年诞生，是全球领先的智能终端提供商。我�
 
 ![image-20220705220747429](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207052207502.png)
 
-## 滴滴C++
+# 滴滴C++
 
 官网：https://campus.didiglobal.com/campus_apply/didiglobal/6223#/jobs?zhineng=48460
 
 ![image-20220628131125626](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206281311679.png)
 
-
-
-## SHEIN
+# SHEIN
 
 [SHEIN2023校园招聘提前批正式启动 (qq.com)](https://mp.weixin.qq.com/s/qFUoIiT-zXGc5G2cEAj3bA)
 
@@ -274,7 +322,7 @@ SHEIN是一家全球领先的快时尚电商品牌平台，通过追求技术革
 
 
 
-## 超参数科技
+# 超参数科技
 
 [与有趣的人 做有趣的事 | 超参数科技2023届校园招聘提前批正式启动 (qq.com)](https://mp.weixin.qq.com/s/PKQn2nGPOJKDCwmttz2jig)
 
@@ -286,7 +334,7 @@ SHEIN是一家全球领先的快时尚电商品牌平台，通过追求技术革
 
 
 
-## 嘉楠科技
+# 嘉楠科技
 
 [校园招聘 | 嘉楠科技2023校园招聘技术提前批启动 (qq.com)](https://mp.weixin.qq.com/s/A9cX-QRgJc72p4Sh3_AJfQ)
 
@@ -298,7 +346,7 @@ SHEIN是一家全球领先的快时尚电商品牌平台，通过追求技术革
 
 ![image-20220705215405387](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207052154725.png)
 
-## Neo
+# Neo
 
 [【2023校招&实习】Neo 2023 全球校园招聘及实习生项目正式启动 (qq.com)](https://mp.weixin.qq.com/s/B9Dwqmxvo_35In9IbT1aPw)
 
@@ -312,7 +360,7 @@ Neo 是一个由开源社区驱动的区块链平台。作为功能最全面的�
 
 
 
-## 中兴通讯
+# 中兴通讯
 
 [中兴通讯2023届“未来领军”人才招聘正式启动 (qq.com)](https://mp.weixin.qq.com/s/21pMdR06Xop2aU98YfZtnQ)
 
@@ -324,7 +372,7 @@ Neo 是一个由开源社区驱动的区块链平台。作为功能最全面的�
 
 
 
-## 华为2012实验室
+# 华为2012实验室
 
 [华为2012实验室23届顶尖人才招聘 (qq.com)](https://mp.weixin.qq.com/s/nBkKE0wZNivA9NINEQ9IkA)
 
@@ -334,7 +382,7 @@ Neo 是一个由开源社区驱动的区块链平台。作为功能最全面的�
 
 
 
-## 长鑫存储
+# 长鑫存储
 
 [招聘 | 长鑫存储2023校招提前批来啦！ (qq.com)](https://mp.weixin.qq.com/s/9_KckYG-p8rtk2hLQQC9EA)
 
@@ -344,7 +392,7 @@ Neo 是一个由开源社区驱动的区块链平台。作为功能最全面的�
 
 ![img](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206290931978.png)
 
-## 华为云核心网
+# 华为云核心网
 
 [【招聘信息】华为云核心网23届顶尖校招 (qq.com)](https://mp.weixin.qq.com/s/zsgEG8_E8qkBkqwNet9hHA)
 
@@ -354,7 +402,7 @@ Neo 是一个由开源社区驱动的区块链平台。作为功能最全面的�
 
 
 
-## 高德红外
+# 高德红外
 
 [高德红外2023届校园招聘提前批正式启动 (qq.com)](https://mp.weixin.qq.com/s/4E9nFWS_pASc-YMlzRED3g)
 
@@ -368,7 +416,7 @@ Neo 是一个由开源社区驱动的区块链平台。作为功能最全面的�
 
 
 
-## 电科莱斯
+# 电科莱斯
 
 [电科莱斯、28所2023届暑期开放日暨提前批次校园招聘全面启动 (qq.com)](https://mp.weixin.qq.com/s/syiZPIbBrB8G-B53eZ9j6w)
 
@@ -382,7 +430,7 @@ Neo 是一个由开源社区驱动的区块链平台。作为功能最全面的�
 
 
 
-## 华为集团IT
+# 华为集团IT
 
 [校园招聘 | 华为集团IT2023届顶尖人才招聘 (qq.com)](https://mp.weixin.qq.com/s/hLam6_NqoYTQz0xMhWIjcQ)
 
@@ -390,7 +438,7 @@ Neo 是一个由开源社区驱动的区块链平台。作为功能最全面的�
 
 岗位见推文，有点儿多。
 
-## 华为诺亚方舟实验室
+# 华为诺亚方舟实验室
 
 [华为诺亚方舟实验室2023届全球应届生校园招聘 (qq.com)](https://mp.weixin.qq.com/s/tz8yBO2DZM5QzB5oSK5i1g)
 
@@ -402,7 +450,7 @@ Neo 是一个由开源社区驱动的区块链平台。作为功能最全面的�
 
 ![image-20220628130650738](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206281306832.png)
 
-## 虹软
+# 虹软
 
 [校园招聘 | 虹软2023届校园招聘SP专场 (qq.com)](https://mp.weixin.qq.com/s/CFD9hJ9UzWryF43T_jq8Vg)
 
@@ -412,7 +460,7 @@ Neo 是一个由开源社区驱动的区块链平台。作为功能最全面的�
 
 ![image-20220628130113704](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206281306019.png)
 
-## 锐捷网络
+# 锐捷网络
 
 [锐捷网络2023届校园招聘提前批正式启动！ (qq.com)](https://mp.weixin.qq.com/s/1XEVQrYsAtjUnZACxGWwbg)
 
@@ -422,7 +470,7 @@ Neo 是一个由开源社区驱动的区块链平台。作为功能最全面的�
 
 ![image-20220628130010447](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206281300545.png)
 
-## 科大讯飞
+# 科大讯飞
 
 [科大讯飞2023届飞星计划正式启动！ (qq.com)](https://mp.weixin.qq.com/s/lv2t9XuX5-TIJuNX-P62aQ)
 
@@ -432,7 +480,7 @@ Neo 是一个由开源社区驱动的区块链平台。作为功能最全面的�
 
 ![image-20220628125555638](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206281255712.png)
 
-## 第四范式
+# 第四范式
 
 [第四范式2023届校园招聘正式启动！ (qq.com)](https://mp.weixin.qq.com/s/G38V3fXcCf04GSD21ajC0g)
 
@@ -440,7 +488,7 @@ Neo 是一个由开源社区驱动的区块链平台。作为功能最全面的�
 
 ![image-20220628123515466](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206281235551.png)
 
-## 蔚来
+# 蔚来
 
 [校招 | 蔚来2023届秋招研发提前批启动 (qq.com)](https://mp.weixin.qq.com/s/SjtTGjTWKyCIgAv92g7HzQ)
 
@@ -452,7 +500,7 @@ Neo 是一个由开源社区驱动的区块链平台。作为功能最全面的�
 
 ![image-20220620203544904](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206202035989.png)
 
-## 中国网安/三十所
+# 中国网安/三十所
 
 [中国网安/三十所2023届校招提前批开始啦！ (qq.com)](https://mp.weixin.qq.com/s/AmVtnjKHBeSURXzPbu7AfQ)
 
@@ -464,13 +512,13 @@ Neo 是一个由开源社区驱动的区块链平台。作为功能最全面的�
 
 ![image-20220620170548458](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206201705617.png)
 
-## 华为ICT产品与解决方案
+# 华为ICT产品与解决方案
 
 [华为ICT产品与解决方案2023届顶尖招聘正式启动！ (qq.com)](https://mp.weixin.qq.com/s/q4yzr5AdzQVPja7670ca-Q)
 
 包含多条产品线：无线网络产品线、数据通信产品线、光产品线、云核心网产品线、计算产品线、数据存储产品线、公共开发产品线。
 
-## 华为云计算
+# 华为云计算
 
 [星光闪耀，逐梦未来 | 华为云计算2023届顶尖招聘开启 (qq.com)](https://mp.weixin.qq.com/s/65f_TjdaLOsB_UkHE-EI9A)
 
@@ -478,19 +526,19 @@ Neo 是一个由开源社区驱动的区块链平台。作为功能最全面的�
 
 ![image-20220620170915893](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206201709954.png)
 
-## 广发银行
+# 广发银行
 
 [广发银行2023届校招提前批暨2022年暑期实习生招聘开启啦！ (qq.com)](https://mp.weixin.qq.com/s/Vn6SSqroPg3oyuq2OHGPoA)
 
 ![image-20220620171009904](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206201710031.png)
 
-## 杭州银行
+# 杭州银行
 
 [招聘+实习 | 杭州银行2023届校招提前批暨“摘星计划”暑期实习生招聘 (qq.com)](https://mp.weixin.qq.com/s/vHhVTGohCalS-nx7AKQJZQ)
 
 ![image-20220620171124496](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206201711638.png)
 
-## 华夏银行
+# 华夏银行
 
 [“职”等你来 | 华夏银行2023届校园招聘数字科技人才提前批正式启动 (qq.com)](https://mp.weixin.qq.com/s/tDpdIyREG_uHYJg8R_LaKw)
 
@@ -502,7 +550,7 @@ Neo 是一个由开源社区驱动的区块链平台。作为功能最全面的�
 
 ![image-20220620171416735](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206201714844.png)
 
-## 中国航天科工四院四部
+# 中国航天科工四院四部
 
 [招聘 | 中国航天科工四院四部2022届毕业生补招及2023届提前批招聘启事 (qq.com)](https://mp.weixin.qq.com/s/bkm_1TcfDNnrHjmvOeSxGw)
 
@@ -512,13 +560,13 @@ Neo 是一个由开源社区驱动的区块链平台。作为功能最全面的�
 
 ![img](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206201712738.jpeg)
 
-## 航天科技集团
+# 航天科技集团
 
 [校招提前批启动！航天科技集团2023星辰英才计划 (qq.com)](https://mp.weixin.qq.com/s/zFzSNxaso6SFEIr4g0fL1A)
 
 ![image-20220620171553090](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206201715208.png)
 
-## 北斗星通
+# 北斗星通
 
 [北斗星通2023届校园招聘正式启动！ (qq.com)](https://mp.weixin.qq.com/s/hMKWVM0gnpBMHBOhZcXpGg)
 
@@ -528,7 +576,7 @@ Neo 是一个由开源社区驱动的区块链平台。作为功能最全面的�
 
 ![image-20220620171718056](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206201717117.png)
 
-## 大华股份
+# 大华股份
 
 [大华股份2023届校招提前批「星耀计划」正式启动！ (qq.com)](https://mp.weixin.qq.com/s/Psda3iixlwKyykNTsWJ4kQ)
 
@@ -542,7 +590,7 @@ Neo 是一个由开源社区驱动的区块链平台。作为功能最全面的�
 
 
 
-## 京东方
+# 京东方
 
 [Hi YOU｜京东方2023全球校招夏季研发专场正式启动！ (qq.com)](https://mp.weixin.qq.com/s/dP8UXHYHNbiFFMpJYvPGtQ)
 
@@ -554,7 +602,7 @@ Neo 是一个由开源社区驱动的区块链平台。作为功能最全面的�
 
 ![image-20220619173156474](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206191731559.png)
 
-## 中电十所
+# 中电十所
 
 [十分精彩，所以等你，中电十所2023届校园招聘提前批招聘开始啦 (qq.com)](https://mp.weixin.qq.com/s/fYx5xTW5SM3pXM0o3ml78w)
 
@@ -568,7 +616,7 @@ Neo 是一个由开源社区驱动的区块链平台。作为功能最全面的�
 
 ![image-20220619173835425](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206191738581.png)
 
-## 腾讯
+# 腾讯
 
 [腾讯2023校园招聘技术大咖招募启动 (qq.com)](https://mp.weixin.qq.com/s/aeE9dWVV8fWcwcN6Pt35rQ)
 
@@ -576,7 +624,7 @@ Neo 是一个由开源社区驱动的区块链平台。作为功能最全面的�
 
 ![image-20220619174030034](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206191740102.png)
 
-## 禾赛科技
+# 禾赛科技
 
 [禾赛科技校园招聘职位 (feishu.cn)](https://kwh0jtf778.jobs.feishu.cn/229043)
 
@@ -584,7 +632,7 @@ Neo 是一个由开源社区驱动的区块链平台。作为功能最全面的�
 
 ![image-20220617165426185](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206171654292.png)
 
-## 中科院空天院
+# 中科院空天院
 
 [中科院空天院2023年校园招聘提前批启动 (qq.com)](https://mp.weixin.qq.com/s/vDzjdGwoy4c90HUahUNlcw)
 
@@ -602,7 +650,7 @@ Neo 是一个由开源社区驱动的区块链平台。作为功能最全面的�
 
 ![image-20220616114337742](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206161143877.png)
 
-## 上海瀚讯
+# 上海瀚讯
 
 [职位需求--上海瀚讯信息技术股份有限公司 (jushri.com)](http://www.jushri.com/join/campus/job.html)
 
@@ -614,7 +662,7 @@ Neo 是一个由开源社区驱动的区块链平台。作为功能最全面的�
 
 ![image-20220616114446088](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206161144139.png)
 
-## 联发科技
+# 联发科技
 
 [联发科技2023届校园招聘 (zhaopin.com)](http://mediatek-campus2023.zhaopin.com/job.html)
 
@@ -622,7 +670,7 @@ Neo 是一个由开源社区驱动的区块链平台。作为功能最全面的�
 
 ![image-20220616114748330](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206161147385.png)
 
-## bynav北云科技
+# bynav北云科技
 
 [校园招聘 | bynav北云科技](https://www.bynav.com/cn/careers/campus-recruitment)
 
@@ -634,7 +682,7 @@ Neo 是一个由开源社区驱动的区块链平台。作为功能最全面的�
 
 ![image-20220615142039377](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206151420444.png)
 
-## 中科芯
+# 中科芯
 
 [校招 | 中科芯2023届校园招聘提前批投递通道开启！ (qq.com)](https://mp.weixin.qq.com/s/LTQfjNc8kxq-1Y9C8qHOgw)
 
@@ -646,7 +694,7 @@ Neo 是一个由开源社区驱动的区块链平台。作为功能最全面的�
 
 ![image-20220615124431821](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206151244909.png)
 
-## 韶音科技
+# 韶音科技
 
 [韶音科技2023届研发提前批正式启动！ (qq.com)](https://mp.weixin.qq.com/s/gNBjm7ga6qZarCiME4clIg)
 
@@ -658,7 +706,7 @@ Shokz韶音凭借全球领先的**骨传导核心技术**、极致的产品工�
 
 ![image-20220615125026845](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206151250893.png)
 
-## 集创北方
+# 集创北方
 
 [先人一步丨集创北方2023届校园招聘提前批正式启动！ (qq.com)](https://mp.weixin.qq.com/s/CIFTWOBB5rfcPfdAMvuvtg)
 
@@ -670,7 +718,7 @@ Shokz韶音凭借全球领先的**骨传导核心技术**、极致的产品工�
 
 ![image-20220615125358797](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206151253879.png)
 
-## 福特中国
+# 福特中国
 
 [福特中国2023校园招聘提前批，“职”等你闯！ (qq.com)](https://mp.weixin.qq.com/s/CU41nIbndYzD_mxu8XuTRQ)
 
@@ -690,7 +738,7 @@ Shokz韶音凭借全球领先的**骨传导核心技术**、极致的产品工�
 
 ![image-20220615114502045](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206151145099.png)
 
-## 中国电子科技集团第五十五研究所
+# 中国电子科技集团第五十五研究所
 
 [用“芯”创造未来 中电第五十五研究所2023提前批正式开始！](http://cetc55.zhaopin.com/job.html)
 
@@ -706,7 +754,7 @@ Shokz韶音凭借全球领先的**骨传导核心技术**、极致的产品工�
 
 注意旁边还可以选择中电国基南方集团有限公司的其他下属公司，均有招聘岗位。
 
-## 南京银行
+# 南京银行
 
 [南京银行23校招 (njcb.com.cn)](https://job.njcb.com.cn/#/index/notic/details?id=54&tableName=notic)
 
@@ -714,7 +762,7 @@ Shokz韶音凭借全球领先的**骨传导核心技术**、极致的产品工�
 
 ![image-20220614151416394](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206141514541.png)
 
-## 长江存储
+# 长江存储
 
 [招聘 | 长江存储2023秋招提前批正式启动 (qq.com)](https://mp.weixin.qq.com/s/Hc1QV4pNLp3wr7fPdyb7Lg)
 
@@ -726,7 +774,7 @@ Shokz韶音凭借全球领先的**骨传导核心技术**、极致的产品工�
 
 <img src="https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206121742885.png" alt="image-20220612174210816" style="zoom:90%;" />
 
-## 华为数据通信产品线
+# 华为数据通信产品线
 
 [招聘 | 华为数据通信顶尖学生招聘正式启动 (qq.com)](https://mp.weixin.qq.com/s/qbtiLQFq7iw7WM6T2KWnkw)
 
@@ -734,7 +782,7 @@ Shokz韶音凭借全球领先的**骨传导核心技术**、极致的产品工�
 
 ![image-20220612174554241](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206121745738.png)
 
-## 同花顺算法专场
+# 同花顺算法专场
 
 [同花顺校园招聘 (10jqka.com.cn)](http://campus.10jqka.com.cn/job/list)
 
@@ -744,7 +792,7 @@ Shokz韶音凭借全球领先的**骨传导核心技术**、极致的产品工�
 
 ![image-20220610165000831](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206101650885.png)
 
-## 梅卡曼德机器人
+# 梅卡曼德机器人
 
 梅卡曼德是致力于将AI应用到工业机器人领域的高科技公司，由清华海归团队创立，获得的美团、IDG资本、英特尔等多家知名机构的投资支持，发展迅速。欢迎访问网站www.mech-mind.com.cn了解公司的愿景、技术和产品。
 
@@ -756,7 +804,7 @@ Shokz韶音凭借全球领先的**骨传导核心技术**、极致的产品工�
 
 [![X6QyVO.jpg](https://s1.ax1x.com/2022/06/10/X6QyVO.jpg)](https://imgtu.com/i/X6QyVO)
 
-## 思朗科技
+# 思朗科技
 
 [招聘 | 思朗科技2023校园招聘 (qq.com)](https://mp.weixin.qq.com/s/l1Ae-Qc-lUJ2xTIo_wJ-cw)
 
@@ -766,7 +814,7 @@ Shokz韶音凭借全球领先的**骨传导核心技术**、极致的产品工�
 
 <img src="https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206101622011.png" alt="image-20220610162200836" style="zoom:80%;" />
 
-## 航天二院
+# 航天二院
 
 [招聘 | 航天二院2022届毕业生校招补招 (qq.com)](https://mp.weixin.qq.com/s/cPgqPkJryXf3kxaiCEbeCg)
 
@@ -774,7 +822,7 @@ Shokz韶音凭借全球领先的**骨传导核心技术**、极致的产品工�
 
 ![image-20220607172844726](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206071728835.png)
 
-## 中泰证券
+# 中泰证券
 
 [中泰证券2023届提前批暑期校园招聘启动 (qq.com)](https://mp.weixin.qq.com/s/9kIj1TKJnC6P1fELDu7dWg)
 
@@ -796,7 +844,7 @@ Shokz韶音凭借全球领先的**骨传导核心技术**、极致的产品工�
 
 ![image-20220607173953394](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206071739461.png)
 
-## 中国船舶集团第七一六研究所
+# 中国船舶集团第七一六研究所
 
 [【校园招聘】军工央企！博士30-50W！硕士20-30W！本科14-20W！中国船舶集团第七一六研究所2023提前批次校园招聘 (qq.com)](https://mp.weixin.qq.com/s/eXIuYpcwUW2Mz-nAM0Cqhg)
 
@@ -804,7 +852,7 @@ Shokz韶音凭借全球领先的**骨传导核心技术**、极致的产品工�
 
 ![](https://markdown-pic-blackboxo.oss-cn-shanghai.aliyuncs.com/20220603140421.png)
 
-## 国泰君安「数字化人才专场」
+# 国泰君安「数字化人才专场」
 
 [招聘｜国泰君安「数字化人才专场」2023届春季校园招聘 (qq.com)](https://mp.weixin.qq.com/s/0UdaF3vYijRQNkYm-XXKFg)
 
@@ -816,7 +864,7 @@ Shokz韶音凭借全球领先的**骨传导核心技术**、极致的产品工�
 
 ![image-20220603162707015](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206031627126.png)
 
-## 中国航天科工二院25所
+# 中国航天科工二院25所
 
 [招聘 | 中国航天科工二院25所2022年毕业生招聘火热开启 (qq.com)](https://mp.weixin.qq.com/s/GXrhVn3eo9sbAyZ_ckH-Ag)
 
@@ -826,7 +874,7 @@ Shokz韶音凭借全球领先的**骨传导核心技术**、极致的产品工�
 
 ![image-20220603163249694](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206031632840.png)
 
-## 众安保险
+# 众安保险
 
 [众安在线财产保险股份有限公司 - 校园招聘众安保险 (mokahr.com)](https://app.mokahr.com/campus_apply/zhongan/25333#/page/2023届岗位)
 
@@ -836,7 +884,7 @@ Shokz韶音凭借全球领先的**骨传导核心技术**、极致的产品工�
 
 ![image-20220603155712225](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206031557407.png)
 
-## 元戎启行
+# 元戎启行
 
 [元戎启行秋季校园招聘提前批正式启动 (qq.com)](https://mp.weixin.qq.com/s/z61vfcu8w34fOkjS9r38Sw)
 
@@ -848,7 +896,7 @@ Shokz韶音凭借全球领先的**骨传导核心技术**、极致的产品工�
 
 ![image-20220603160418202](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206031604324.png)
 
-## 万兴科技
+# 万兴科技
 
 [2023届提前批| 万兴科技SP计划启动！ (qq.com)](https://mp.weixin.qq.com/s/aeYVyOfN2ZUNRN4VH1md7A)
 
@@ -862,7 +910,7 @@ Shokz韶音凭借全球领先的**骨传导核心技术**、极致的产品工�
 
 ![image-20220603161043688](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202206031610823.png)
 
-## 九坤
+# 九坤
 
 [招聘+实习 | 九坤AI类热门招聘：αi +1，未来可期 (qq.com)](https://mp.weixin.qq.com/s/miFiRKPv2DowQ6S-SGLV-Q)
 
@@ -872,7 +920,7 @@ Shokz韶音凭借全球领先的**骨传导核心技术**、极致的产品工�
 
 ![image-20220529192943500](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291929557.png)
 
-## 中国航天科工集团有限公司
+# 中国航天科工集团有限公司
 
 [航天三院2023届毕业生提前批招聘 (qq.com)](https://mp.weixin.qq.com/s/A59ETWdSPGbAJ75ZNtiPSw)
 
@@ -884,7 +932,7 @@ Shokz韶音凭借全球领先的**骨传导核心技术**、极致的产品工�
 
 这里展示的是所有子公司的岗位表，长达20多页太多了，可以按照工作城市和心仪的子公司进行筛选。
 
-## 华为
+# 华为
 
 [华为应届生_实习生_留学生_海外本地最新招聘信息-华为校园招聘 (huawei.com)](https://career.huawei.com/reccampportal/portal5/campus-recruitment.html#jobList)
 
@@ -898,7 +946,7 @@ Shokz韶音凭借全球领先的**骨传导核心技术**、极致的产品工�
 
 ![image-20220529142959862](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291429924.png)
 
-## 百度（算法）
+# 百度（算法）
 
 看岗位表只有算法、智能驾驶、芯片相关的岗位，应该是神仙打架的。
 
@@ -906,7 +954,7 @@ Shokz韶音凭借全球领先的**骨传导核心技术**、极致的产品工�
 
 ![image-20220529135150511](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291351546.png)
 
-## 广联达
+# 广联达
 
 [广联达科技股份有限公司 - 校招内推职位 (mokahr.com)](https://app.mokahr.com/recommendation-apply/glodon/1752#/?anchorName=default_joblist&sourceToken=)
 
@@ -916,7 +964,7 @@ Shokz韶音凭借全球领先的**骨传导核心技术**、极致的产品工�
 
 ![image-20220528203259229](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205282032311.png)
 
-## TP-link
+# TP-link
 
 [TP-LINK 招聘](https://hr.tp-link.com.cn/jobList?jobId=0&jobDirection=0&workPlace=0&currentPage=1&keyword=)
 
@@ -928,7 +976,7 @@ TP-LINK总部位于中国**深圳**，自1996年成立以来便深耕国内市�
 
 ![image-20220528203909677](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205282039770.png)
 
-## 三一集团
+# 三一集团
 
 [三一集团校招提前批 (zhiye.com)](https://sanycampus.zhiye.com/campus?k=&c=&p=3^-1,1^4&d=&PageIndex=1&class=2&x=1030&n=23)
 
@@ -942,7 +990,7 @@ TP-LINK总部位于中国**深圳**，自1996年成立以来便深耕国内市�
 
 ![image-20220528204502355](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205282045423.png)
 
-## 三环集团
+# 三环集团
 
 [三环集团招聘 (cctc.cc)](https://hr.cctc.cc/school)
 
@@ -954,7 +1002,7 @@ TP-LINK总部位于中国**深圳**，自1996年成立以来便深耕国内市�
 
 ![image-20220528210551514](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205282105598.png)
 
-## 北森
+# 北森
 
 [北森招聘-校园招聘 (zhiye.com)](http://beisen.zhiye.com/xzlist?class=2)
 
@@ -968,7 +1016,7 @@ TP-LINK总部位于中国**深圳**，自1996年成立以来便深耕国内市�
 
 ![image-20220528205934160](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205282059244.png)
 
-## 青岛鼎信通讯
+# 青岛鼎信通讯
 
 又一个青岛的工作机会，家乡在山东的同学可以关注一下，其他喜欢青岛或者想去青岛定居也可以关注一下哈哈。感觉这公司非常实诚啊，把每个岗位的薪资都标出来了😃。看公司简介，应该在青岛本地比较厉害的企业了。
 
@@ -980,7 +1028,7 @@ TP-LINK总部位于中国**深圳**，自1996年成立以来便深耕国内市�
 
 ![image-20220529133403517](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291334575.png)
 
-## 海尔智家
+# 海尔智家
 
 [海尔创吧-海尔官方招聘网站-提前批 (haier.net)](http://maker.haier.net/client/campus/customizedjobs.html)
 
@@ -988,7 +1036,7 @@ TP-LINK总部位于中国**深圳**，自1996年成立以来便深耕国内市�
 
 ![image-20220529133717194](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291337365.png)
 
-## 海尔卡奥斯
+# 海尔卡奥斯
 
 [卡奥斯2023校园招聘科技类提前批启动 (qq.com)](https://mp.weixin.qq.com/s/lasMwN-tQk7zjtKb_eju9A)
 
@@ -1000,7 +1048,7 @@ TP-LINK总部位于中国**深圳**，自1996年成立以来便深耕国内市�
 
 ![image-20220529191704650](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291917418.png)
 
-## 海尔其他生态
+# 海尔其他生态
 
 [招聘 | 海尔生物医疗2023未来合伙人提前批正式启动 (qq.com)](https://mp.weixin.qq.com/s/ti3An1s0r1qn7ky-7NbTVg)
 
@@ -1012,7 +1060,7 @@ TP-LINK总部位于中国**深圳**，自1996年成立以来便深耕国内市�
 
 ![image-20220529192549107](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291925182.png)
 
-## 最右
+# 最右
 
 [最右 - 校园招聘 (mokahr.com)](https://app.mokahr.com/campus_apply/xiaochuankeji/3518#/jobs?zhineng=&page=1)
 
@@ -1022,7 +1070,7 @@ TP-LINK总部位于中国**深圳**，自1996年成立以来便深耕国内市�
 
 ![image-20220529134646989](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291346042.png)
 
-## 国家电网-南京自动化股份有限责任公司
+# 国家电网-南京自动化股份有限责任公司
 
 [国电南京自动化股份有限公司2023届校园招聘 (51job.com)](http://campus.51job.com/SAC/post.html)
 
@@ -1032,7 +1080,7 @@ TP-LINK总部位于中国**深圳**，自1996年成立以来便深耕国内市�
 
 ![image-20220529135547953](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291355116.png)
 
-## 中国宝武
+# 中国宝武
 
 [中国宝武2022全球校园招聘 (51job.com)](http://campus.51job.com/baowugroup/job.html)
 
@@ -1044,7 +1092,7 @@ TP-LINK总部位于中国**深圳**，自1996年成立以来便深耕国内市�
 
 ![image-20220529140900715](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291409779.png)
 
-## 星猿哲XYZ Robotics
+# 星猿哲XYZ Robotics
 
 [星猿哲XYZ Robotics 2023届暑期实习&秋招提前批正式开启！ (qq.com)](https://mp.weixin.qq.com/s/_rsU2dG449xD1EiuRrtv-g)
 
@@ -1057,32 +1105,6 @@ TP-LINK总部位于中国**深圳**，自1996年成立以来便深耕国内市�
 **成立于2018年**，公司在4年内连续获得多家头部VC基金投资（今日资本、高格、五源、源码、创新工场等），目前**已完成B+轮融资**，融资额度及产品落地速度均领跑所处赛道。凭借全球领先的3D视觉、机器人运动规划和夹具设计等前沿技术，星猿哲科技为物流和制造业提供小件无序分拣、拆码垛、深筐上下料与装配等全套产品解决方案，目前已广泛应用于工业、物流、电商、汽车零部件、日化、医药、消费品等行业头部企业。
 
 ![image-20220529141118377](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205291411424.png)
-
-# 实习
-
-## 特斯拉
-
-[特斯拉研发实习生招聘中 (qq.com)](https://mp.weixin.qq.com/s/-z49pL_oOAccZJ-wBBRBxw)
-
-## 索尼
-
-[【实习信息】@2023届｜索尼工程师“星计划”实习生招聘正式启动 (qq.com)](https://mp.weixin.qq.com/s/edEVTxMHLYDNWu0keCcDsA)
-
-## 理想汽车
-
-[实习信息 | 理想汽车2023届软件研发暑期实习生招聘进行中 (qq.com)](https://mp.weixin.qq.com/s/51cfYidbLVB401qK5sNZ3g)
-
-## 智己汽车
-
-[实习|智己汽车2023届暑期实习生火热招募中 (qq.com)](https://mp.weixin.qq.com/s/D2t_L4B26ceqLZLE3t_KHQ)
-
-## 九坤
-
-[招聘+实习 | 九坤AI类热门招聘：αi +1，未来可期 (qq.com)](https://mp.weixin.qq.com/s/miFiRKPv2DowQ6S-SGLV-Q)
-
-
-
-
 
 
 
