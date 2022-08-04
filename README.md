@@ -4,6 +4,12 @@
 
 ![卡卡成长汇聚宣传](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205282027513.gif)
 
+# 滴滴
+
+[滴滴2021产研春季校园招聘正式启动 (qq.com)](https://mp.weixin.qq.com/s/25y8-J5klbvpb6LzfBeFxg)
+
+![image-20220804141828777](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202208041418340.png)
+
 # 4399
 
 [4399游戏2023届校园招聘正式启动！ (qq.com)](https://mp.weixin.qq.com/s/K8OT7G_MFp3YNV79-f0imw)
