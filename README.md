@@ -4,151 +4,27 @@
 
 ![卡卡成长汇聚宣传](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202205282027513.gif)
 
-# 去哪儿
-
-[去哪儿旅行2023届校园招聘火热开启 (qq.com)](https://mp.weixin.qq.com/s/feX_f0evHH_qlbKd6PCF4Q)
-
-![image-20220807101907950](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202208071019534.png)
-
-# 猿辅导
-
-[猿辅导2023校园招聘正式启动！ (qq.com)](https://mp.weixin.qq.com/s/wqFOydrBw61gV2oj9YQw7w)
-
-![image-20220807105311920](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202208071053251.png)
-
-# 好未来
-
-[好未来-2023 校招招聘简章 寻找锐意进取的你 (qq.com)](https://mp.weixin.qq.com/s/UlT29ooUCPWPJVJjIhj2zQ)
-
-![image-20220807105149332](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202208071051714.png)
-
-# 滴滴
-
-[滴滴2021产研春季校园招聘正式启动 (qq.com)](https://mp.weixin.qq.com/s/25y8-J5klbvpb6LzfBeFxg)
-
-![image-20220804141828777](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202208041418340.png)
-
-# 4399
-
-[4399游戏2023届校园招聘正式启动！ (qq.com)](https://mp.weixin.qq.com/s/K8OT7G_MFp3YNV79-f0imw)
-
-![image-20220804132028216](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202208041320610.png)
-
-# 美团
-
-[招5000人！美团2023届校园招聘全面启动 (qq.com)](https://mp.weixin.qq.com/s/d-t1zIJFmOvCuwcN374j7g)
-
-![image-20220804131915379](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202208041319730.png)
-
-# 蔚来
-
-[校招 | 蔚来2023届校园招募正式启动 (qq.com)](https://mp.weixin.qq.com/s/RBfwJuyO6rQaeO4MRt1Oaw)
-
-# Momenta
-
-[Momenta 2023届校园招聘正式启动 (qq.com)](https://mp.weixin.qq.com/s/p4_Uo90ulqh53nPvrhXvuw)
-
-![image-20220804130758804](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202208041308145.png)
-
-# 京东
-
-[寻找燃力「实」足的你｜京东2023校园招聘全面启动！ (qq.com)](https://mp.weixin.qq.com/s/MS_iH_osZOxmcuniIFd2ig)
-
-多城市有岗
-
-![image-20220804130548695](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202208041305626.png)
-
-# 网易有道
-
-[网易有道2023校园招聘启动！ (qq.com)](https://mp.weixin.qq.com/s/j0SkRbrU1A0kyA1z8VXX3w)
-
-Base北京
-
-![image-20220804130307712](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202208041303789.png)
-
-# 360
-
-[极客飞扬，与梦想零距离 | 360集团2023全球校园招聘正式启动！ (qq.com)](https://mp.weixin.qq.com/s/5HjD1Xh18Kb7Alez9hf--g)
-
-上海也有少量软开岗，大部分岗在北京。
-
-![image-20220804113932522](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202208041139320.png)
-
-# 微软
-
-[校招|微软2023校园招聘正式开启！ (qq.com)](https://mp.weixin.qq.com/s/xVcUSUdsKprCVf6xHor-Rg)6
-
-![image-20220801101259436](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202208011013256.png)
-
-# 快手
-
-[快手2023秋季校园招聘启动 (qq.com)](https://mp.weixin.qq.com/s/TIFg_GD-XYob0y9MBxugxA)
-
-![image-20220731152347397](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207311523701.png)
-
-# 金山云
-
-[云向未来|金山云2023届校园招聘提前批开启啦！ (qq.com)](https://mp.weixin.qq.com/s/ksYMSN0l74_BXxO0r6zpeQ)
-
-金山云创立于2012年，目前稳居中国公有云互联网云服务商前三（市场排名数据来源：沙利文《2021年中国公有云市场追踪报告》），2020年5月在美国纳斯达克上市（股票代码：KC），业务范围遍及全球多个国家和地区。
-
-![image-20220731152145981](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207311521482.png)
-
-# 荣耀
-
-[校招 | 荣耀2023届校园招聘正式启动 (qq.com)](https://mp.weixin.qq.com/s/G_Z_vVqvSux3xN264mEu-A)
-
-![image-20220731152009125](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207311531600.png)
-
-![image-20220731152022731](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207311520884.png)
-
-# 网易互娱
-
-[网易游戏（互娱）2023校园招聘启动！ (qq.com)](https://mp.weixin.qq.com/s/3uQ2qqfUe2QgMe8qKF7I7Q)
-
-![image-20220731151919064](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207311519487.png)
-
-# 深信服
-
-[深信服2023届校园招聘提前批正式启动！ (qq.com)](https://mp.weixin.qq.com/s/cma6-0jtb2uXFRV00aAf4g)
-
-深信服科技（股票代码300454）成立于2000年12月是专注于企业级网络安全、云计算、IT基础设施及物联网的产品和服务供应商我们的实力：2020年荣登CCIA中国网络安全竞争力排行榜榜首、自2019年起连续3年荣登福布斯中国最具创新力企业榜
-
-![image-20220731151722176](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207311517831.png)
-
-# 英特尔
-
-[英特尔研发2023校园招聘火热进行中！ (qq.com)](https://mp.weixin.qq.com/s/hGCaS7x39A0G-APSG5ZlRw)
-
-![img](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207311514760.png)
-
-# 腾讯音乐
-
-[【招聘推荐】腾讯音乐娱乐集团2023校园招聘技术大咖招募启动 (qq.com)](https://mp.weixin.qq.com/s/ZDwsac_HWT2Kpbr8Mvyrzg)
-
-只招聘博士生：
-
-![image-20220731151212971](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207311512292.png)
-
-# 搜狐
-
-[搜狐集团2023秋季校园招聘内推正式开启 (qq.com)](https://mp.weixin.qq.com/s/lrY7vrroYK0DGKGI6uHVfA)
-
-# Zoom
-
-[Zoom 2023届校园招聘正式启动 (qq.com)](https://mp.weixin.qq.com/s/tlYuYBAUyJuUpF8c5YYCvQ)
-
-![image-20220731150738627](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207311507807.png)
-
-
-
-# 小红书
-
-[小红书REDstar顶尖技术人才招聘计划正式启动！ (qq.com)](https://mp.weixin.qq.com/s/EKzJkrnZ9INSIqLJ7Z70QQ)
-
-小红书是国内增长最快的移动互联网平台之一，以"Inspire Lives 分享和发现世界的精彩”为使命，帮助用户分享与发现并基于兴趣互动形成社区，已成为多元生活方式的聚集地，以此为基础，小红书上的内容与商业形成良性互动，并实现收入持续增长。
-
-![image-20220731150623148](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207311506461.png)
+| 公司     | 官网                                                         | 备注                                                         |
+| -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 去哪儿   | [去哪儿旅行2023届校园招聘火热开启 (qq.com)](https://mp.weixin.qq.com/s/feX_f0evHH_qlbKd6PCF4Q)  [北京趣拿软件科技有限公司 - 校园招聘 (qunar.com)](https://campus.qunar.com/#/jobs?zhineng=15431) | base北京，开发多招java，cpp可冲客户端和测试。                |
+| 猿辅导   | [猿辅导2023校园招聘正式启动！ (qq.com)](https://mp.weixin.qq.com/s/wqFOydrBw61gV2oj9YQw7w)  [2023猿辅导在线教育 - 校园招聘 (yuanfudao.com)](https://hr.yuanfudao.com/#/jobs?zhineng=115462) | base北京，可冲服务端、客户端。                               |
+| 4399     | [4399游戏2023届校园招聘正式启动！ (qq.com)](https://mp.weixin.qq.com/s/K8OT7G_MFp3YNV79-f0imw)  [4399游戏2023届校园招聘](http://web.4399.com/campus/yjsgw/jishulei/#1157059) | base广州，招cpp开发、后端。                                  |
+| 美团     | [招5000人！美团2023届校园招聘全面启动 (qq.com)](https://mp.weixin.qq.com/s/d-t1zIJFmOvCuwcN374j7g)    [职位列表美团招聘 (meituan.com)](https://zhaopin.meituan.com/web/position?hiringType=1_1&cityList=001009&jfJgList=11001_-1&pageNo=1) | base上海，招后端，软开。                                     |
+| 蔚来     | [校招 \| 蔚来2023届校园招募正式启动 (qq.com)](https://mp.weixin.qq.com/s/RBfwJuyO6rQaeO4MRt1Oaw)  [蔚来校园招聘 (feishu.cn)](https://nio.jobs.feishu.cn/campus/?keywords=&category=&location=&project=7120040831188748574&type=&job_hot_flag=&current=1&limit=10&functionCategory=&spread=E1CX29P) | base上海                                                     |
+| Momenta  | [Momenta 2023届校园招聘正式启动 (qq.com)](https://mp.weixin.qq.com/s/p4_Uo90ulqh53nPvrhXvuw)  [Momenta Campus (feishu.cn)](https://momenta.jobs.feishu.cn/campus/?keywords=&category=&location=&project=7113749472140527886&type=&job_hot_flag=&current=2&limit=10&functionCategory=&spread=YMAY754) | base上海、苏州，听说薪资开的挺高的                           |
+| 京东     | [寻找燃力「实」足的你｜京东2023校园招聘全面启动！ (qq.com)](https://mp.weixin.qq.com/s/MS_iH_osZOxmcuniIFd2ig)  [京东校招 (jd.com)](https://campus.jd.com/#/jobs) | base很多                                                     |
+| 网易有道 | [网易有道2023校园招聘启动！ (qq.com)](https://mp.weixin.qq.com/s/j0SkRbrU1A0kyA1z8VXX3w)  [校园招聘 - 2022网易有道校园招聘 (youdao.com)](http://hr.youdao.com/campus/post_list.php?t1=tmp) | base北京                                                     |
+| 网易互娱 | [网易游戏（互娱）2023校园招聘启动！ (qq.com)](https://mp.weixin.qq.com/s/3uQ2qqfUe2QgMe8qKF7I7Q)  [网易游戏(互娱)校园招聘官网 (163.com)](https://game.campus.163.com/position) | base上海、广州                                               |
+| 360      | [极客飞扬，与梦想零距离360集团2023全球校园招聘正式启动！ (qq.com)](https://mp.weixin.qq.com/s/5HjD1Xh18Kb7Alez9hf--g)  [招聘职位 (zhiye.com)](https://360campus.zhiye.com/jobs) | base主要北京，上海有cpp岗                                    |
+| 微软     | [校招微软2023校园招聘正式开启！ (qq.com)](https://mp.weixin.qq.com/s/xVcUSUdsKprCVf6xHor-Rg) [Students and Graduates at Microsoft](https://careers.microsoft.com/students/us/en) | base上海，软开                                               |
+| 英特尔   | [英特尔研发2023校园招聘火热进行中！ (qq.com)](https://mp.weixin.qq.com/s/hGCaS7x39A0G-APSG5ZlRw)  [应届生职位 (intel.cn)](https://chinacampus.jobs.intel.cn/intel/position/index?recruitmentType=CAMPUSRECRUITMENT&baseProvinceCity=上海) | base上海，软开                                               |
+| zoom     | [Zoom 2023届校园招聘正式启动 (qq.com)](https://mp.weixin.qq.com/s/tlYuYBAUyJuUpF8c5YYCvQ)  [Zoom_求职_牛客网 (nowcoder.com)](https://www.nowcoder.com/careers/zoom/102351) | base苏州，杭州                                               |
+| 快手     | [快手2023秋季校园招聘启动 (qq.com)](https://mp.weixin.qq.com/s/TIFg_GD-XYob0y9MBxugxA)  [快手校招 - 职位列表 (kuaishou.cn)](https://campus.kuaishou.cn/#/campus/jobs?pageNum=1&pageSize=10&workLocationCodes=shanghai) | base上海，主要是游戏类服务端、客户端开发                     |
+| 金山云   | [云向未来金山云2023届校园招聘提前批开启啦！ (qq.com)](https://mp.weixin.qq.com/s/ksYMSN0l74_BXxO0r6zpeQ) | base北京，招cpp                                              |
+| 荣耀     | [校招荣耀2023届校园招聘正式启动 (qq.com)](https://mp.weixin.qq.com/s/G_Z_vVqvSux3xN264mEu-A)  [荣耀招聘官网 (hihonor.com)](https://career.hihonor.com/SU60eea919bef57c1023f6fe78/pb/school.html?postTypeCode=0%2F1227%2F10002&currentPage=1) | base北京市、南京市、西安市、深圳市，通用软件开发工程师研发类 |
+| 深信服   | [深信服2023届校园招聘提前批正式启动！ (qq.com)](https://mp.weixin.qq.com/s/cma6-0jtb2uXFRV00aAf4g)  [深信服集团 - 校园招聘 (mokahr.com)](https://app.mokahr.com/campus_apply/sangfor/27944#/jobs?commitment=全职&zhineng=48494) | base深圳，cpp软开                                            |
+| 搜狐     | [搜狐集团2023秋季校园招聘内推正式开启 (qq.com)](https://mp.weixin.qq.com/s/lrY7vrroYK0DGKGI6uHVfA)  [搜狐 - 校园招聘 (mokahr.com)](https://app.mokahr.com/campus_apply/sohu/5682#/jobs?keyword=) | base北京，成都，java后端                                     |
+| 小红书   | [小红书REDstar顶尖技术人才招聘计划正式启动！ (qq.com)](https://mp.weixin.qq.com/s/EKzJkrnZ9INSIqLJ7Z70QQ)  [职位列表 (xiaohongshu.com)](https://job.xiaohongshu.com/m/campus) | base上海，cpp，go                                            |
 
 # Shopee
 
