@@ -78,8 +78,8 @@
 | 得物                       | [【校园招聘】得物App2023校园招聘正式启动！ (qq.com)](https://mp.weixin.qq.com/s/WBpLKaQYcw81AIVVbu7fYw)  [得物App—校园招聘官网 (dewu.com)](https://campus.dewu.com/campus_apply/thedu/37483/#/jobs?keyword=&location[0]=上海市&page=1&anchorName=jobsList&zhineng[0]=15547) | base上海，go                                                 |
 | 小米                       | [23届校招小米集团 (qq.com)](https://mp.weixin.qq.com/s/j_dPXbM6uYYWRCVPphHHWA)  [小米公司 - 校园招聘 (mokahr.com)](https://app.mokahr.com/campus_apply/xiaomi/47097#/jobs?project=100008889&page=1&location[0]=上海市&anchorName=jobsList&commitment[0]=全职&zhineng[0]=5286) | base上海，汽车，软开                                         |
 | 58同城                     | [58同城校园招聘进行中｜这些岗位空缺最多！ (qq.com)](https://mp.weixin.qq.com/s/n9CZ-j4tqytSsuCsJXBfFg)  [58集团招聘](https://campus.58.com/xzzw?k=&c=&p=1^5,3^32&d=&PageIndex=1&class=2&z=0#zw) | base上海，后端                                               |
-|                            |                                                              |                                                              |
-|                            |                                                              |                                                              |
+| 恒生                       | [【校招】恒生2023春季校园招聘正式启动 (qq.com)](https://mp.weixin.qq.com/s/cPrqN9yfqL9W4LnSUzjofA) | base杭州，武汉，cpp开发                                      |
+| 搜狐畅游                   | [免笔试直通面试！22-23届可投！搜狐畅游23届春招提前批开启！【内推码DS5zaY4e】 (qq.com)](https://mp.weixin.qq.com/s/EtTBRcf9IKD6JCnXkBBS0w) | base北京，cpp开发                                            |
 |                            |                                                              |                                                              |
 |                            |                                                              |                                                              |
 
